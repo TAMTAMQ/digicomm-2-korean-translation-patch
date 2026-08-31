@@ -1,4 +1,4 @@
-# DigiCommunication Nyo - Datou! Black Gemagema Dan (GBA) 한글 패치
+# 디지커뮤니케이션 2 (GBA) 한글 패치
 
 > **공개 Git 범위 안내 (2026-08-31):** 이 저장소는 배포 안내와 함께 `tools` 소스코드, 추출된 텍스트/JSON·TSV 메타데이터, `assets/translation` 번역 작업 데이터, 문서/라이선스를 공개한다. ROM/BIOS/세이브/세이브스테이트/원본·번역 이미지/폰트 바이너리/IPS/빌드 산출물은 Git에 포함하지 않는다. 아래 기록에 이미지나 ROM/IPS 경로가 등장하는 것은 로컬 개발 이력이며 공개 저장소에 해당 파일이 포함된다는 뜻이 아니다.
 

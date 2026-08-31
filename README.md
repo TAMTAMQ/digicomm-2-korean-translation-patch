@@ -1,6 +1,6 @@
-# 디지커뮤니케이션 뇨 한국어 번역 패치
+# 디지커뮤니케이션 2 한국어 번역 패치
 
-GBA판 `DigiCommunication Nyo - Datou! Black Gemagema Dan (Japan)`의 비공식 한국어 팬 번역 패치 프로젝트입니다.
+GBA판 **디지커뮤니케이션 2**의 비공식 한국어 팬 번역 패치 프로젝트입니다. 패치 대상 일본판 ROM의 원제/파일명은 `DigiCommunication Nyo - Datou! Black Gemagema Dan (Japan)`입니다.
 
 최신 패치 파일과 배포 버전은 GitHub **Releases**에서 확인해 주세요. 플레이 가능한 수준까지 번역·검증했지만 이후 오역 수정, 미번역 발견, 표현 개선, 그래픽/호환성 수정이 계속 반영될 수 있습니다.
 
