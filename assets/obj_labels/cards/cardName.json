@@ -1,0 +1,221 @@
+{
+  "description": "카드 이미지 이름 검수 및 재생성 지침. pass=true이면 현재 translated_png 이미지를 그대로 사용하고, pass=false이면 해당 이미지를 다시 생성한다. 수정 대상은 카드 중앙 이름뿐이며, 상단 분류명과 맨 아래 COST/숫자는 원본 PNG의 픽셀을 그대로 유지한다. 카드마다 원본 배경색이 다르므로 각 카드의 원본 배경색도 그대로 유지한다.",
+  "source": "cardName.txt",
+  "reference_image": {
+    "path": "png/objlabel_E6D454_32x32.png",
+    "offset_hex": "0xE6D454",
+    "name": "이벤트",
+    "purpose": "글자 배치와 흰색 텍스트·곤색 테두리 스타일을 확인하기 위한 비교적 깔끔한 원본 참고 이미지"
+  },
+  "rendering_guidelines": {
+    "text_style": "카드 중앙 이름만 흰색으로 채우고 곤색 테두리를 적용해 재생성한다. 상단의 점장·터보·업무·방해 글자는 새로 그리지 않고 원본 PNG 픽셀을 그대로 유지한다. manual_5x5는 사용하지 않는다. 맨 아래 COST와 숫자도 새로 렌더링하지 않고 원본 PNG 픽셀을 그대로 유지한다.",
+    "background": "배경색은 카드마다 다르므로 공통 색으로 통일하지 말고 각 원본 카드의 배경색을 그대로 유지한다.",
+    "cost_format": "맨 아래 COST와 숫자는 번역/재렌더링하지 않는다. 원본 PNG의 하단 픽셀을 그대로 유지한다.",
+    "text_size_guidelines": {
+      "order": "가운데 글자만 재생성하고 상단/하단은 원본 픽셀을 유지한다.",
+      "center_text": "카드 중앙의 이름 글자에만 적용한다.",
+      "top_text": "재생성하지 않는다. 원본 PNG의 상단 픽셀을 그대로 유지한다.",
+      "bottom_number": "원본 픽셀 그대로 유지한다.",
+      "bottom_cost": "원본 픽셀 그대로 유지한다."
+    },
+    "top_text_note": "상단 분류명은 주소 구간과 무관하게 전부 원본 PNG 픽셀을 그대로 유지하며 새로 그리지 않는다.",
+    "layer_format": [
+      {
+        "layer": 0,
+        "contents": "원본 그대로 유지하는 맨 위 분류명과 맨 아래 COST 표기"
+      },
+      {
+        "layer": 1,
+        "contents": "카드 중앙의 이름 글자"
+      },
+      {
+        "layer": 2,
+        "contents": "중앙 글자 위의 빨간 X 표시",
+        "applies_to": ["0xE6E87C"]
+      }
+    ]
+  },
+  "cards": [
+    {
+      "offset_hex": "0xE6D04C",
+      "name": "손님이탈",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6D250",
+      "name": "반품",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6D454",
+      "name": "이벤트",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6D658",
+      "name": "손패교체",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6D85C",
+      "name": "건망증",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6DA60",
+      "name": "100/만엔",
+      "lines": ["100", "만엔"],
+      "pass": true,
+	  "note": "중앙의 100은 원본 PNG 픽셀을 그대로 보존하고, 그 아래 일본어 만엔 문구 영역만 한글 만엔으로 교체한다. 맨 아래 COST/숫자 스트립은 일반 규칙대로 원본 픽셀을 그대로 유지한다."
+    },
+    {
+      "offset_hex": "0xE6DC64",
+      "name": "손님교환",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6DE68",
+      "name": "대세일",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6E06C",
+      "name": "불발",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6E270",
+      "name": "?",
+      "pass": true,
+	  "note": "도저히 무슨글자인지 안읽힘, 우선 제외하고 차 후 게임 중에 표시되면 그 때 재확인 예정"
+    },
+    {
+      "offset_hex": "0xE6E474",
+      "name": "∞/코스트",
+      "lines": ["∞", "코스트"],
+      "pass": true,
+      "special_render": {
+        "preserve_source_rect": [3, 9, 29, 15],
+        "text": "코스트",
+        "text_rect": [3, 15, 29, 23],
+        "note": "중앙의 ∞는 원본 PNG 픽셀을 그대로 보존하고, 그 아래 일본어 코스트 문구 영역만 한글 코스트로 교체한다. 맨 아래 COST/숫자 스트립은 일반 규칙대로 원본 픽셀을 그대로 유지한다."
+      }
+    },
+    {
+      "offset_hex": "0xE6E678",
+      "name": "논터보",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6E87C",
+      "name": "점장카드",
+      "pass": true,
+      "note": "해당 글자 위에 원본의 빨간 X 표시 유지"
+    },
+    {
+      "offset_hex": "0xE6EA80",
+      "name": "조종하기",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6EC84",
+      "name": "정화",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6EE88",
+      "name": "리트라이",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6F08C",
+      "name": "노카운트",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6F290",
+      "name": "강탈",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6F494",
+      "name": "슬로우/룰렛",
+      "lines": ["슬로우", "룰렛"],
+      "pass": false
+    },
+    {
+      "offset_hex": "0xE6F698",
+      "name": "땡땡이",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6F89C",
+      "name": "흡수",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6FAA0",
+      "name": "TV/광고",
+      "lines": ["TV", "광고"],
+      "pass": false
+    },
+    {
+      "offset_hex": "0xE6FCA4",
+      "name": "말썽쟁이",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE6FEA8",
+      "name": "버림패",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE70EC8",
+      "name": "정돈",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE714D4",
+      "name": "호객",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE71AE0",
+      "name": "방어",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE71CE4",
+      "name": "가짜/호객",
+      "lines": ["가짜", "호객"],
+      "pass": false
+    },
+    {
+      "offset_hex": "0xE71EE8",
+      "name": "가짜/회원",
+      "lines": ["가짜", "회원"],
+      "pass": false
+    },
+    {
+      "offset_hex": "0xE720EC",
+      "name": "가짜/판매",
+      "lines": ["가짜", "판매"],
+      "pass": false
+    },
+    {
+      "offset_hex": "0xE722F0",
+      "name": "회원",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE728FC",
+      "name": "흉내내기",
+      "pass": true
+    },
+    {
+      "offset_hex": "0xE72B00",
+      "name": "판매",
+      "pass": true
+    }
+  ]
+}

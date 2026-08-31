@@ -1,6 +1,10 @@
 # DigiCommunication Nyo - Datou! Black Gemagema Dan (GBA) 한글 패치
 
-갱신: 2026-08-31 — **최신 메시지/카드/종료버튼/미니게임/이름 입력 + 명함 보기 하단 버튼 3종 + 미니게임 캐릭터명 8x8 받침/누락 글리프 수정까지 최종 통합.**
+> **공개 Git 범위 안내 (2026-08-31):** 이 저장소는 앞으로 `tools` 소스코드와 `assets/translation`의 번역 작업 데이터, 문서/라이선스만 공개한다. ROM/BIOS/세이브/세이브스테이트/원본·번역 이미지/폰트/IPS/빌드 산출물은 Git에 포함하지 않는다. 아래 기록에 이미지나 최종 ROM/IPS 경로가 등장하는 것은 로컬 개발 이력이며 공개 저장소에 해당 파일이 포함된다는 뜻이 아니다.
+
+갱신: 2026-08-31 — **최신 메시지/고정 UI/일반 이미지/사용자 수정 `0b0dfec`·`0b388f4`/자막·가사 350장/카드·메뉴 OBJ/종료·START/미니게임/이름 입력·받침/명함 보기 버튼/미니게임 캐릭터명 8x8 누락 글리프까지 최종 통합.**
+
+> **이 문서의 `현재 상태`가 최종 기준이다. 현재 미착수 항목은 0건이다.** 아래 날짜별 장문 기록은 문제를 발견하고 고쳐 온 당시의 작업 일지이며, 과거의 `당시 미착수`/`남은 작업`/구형 SHA는 역사 기록일 뿐 현재 완료 여부를 뜻하지 않는다.
 
 - 1~14차 패스의 진행 기록: `STATUS_old_passes.md` (**포맷 관련 결론 상당수가 틀림**)
 - 번역 착수 직전 시점의 기록: `STATUS_pre_translation.md`
@@ -14,38 +18,90 @@
 
 ## 현재 상태
 
-| 항목 | 상태 |
+| 항목 | 최종 상태 |
 |---|---|
-| 텍스트 추출 | 완료 — 313레코드 / 4,032줄 |
-| 이미지 추출 | 완료 — 1,257장 / 일본어 비자막 이미지 113장 선별 |
-| 자막·가사 이미지 추출·재작화 | 완료 — 350장 (**ROM 재삽입 미착수**) |
-| 폰트 한글 이식 | 완료 — 2,350자 |
-| 글상자 실측 | 완료 |
-| 용어집 | 완료 — 46항목 |
-| 대사 번역 | **3,996 / 3,996줄 (100%)** |
-| `ui_strings.json` 번역 | **미착수 (0 / 393)** |
-| 자막 이미지 번역 | **완료 (350 / 350)** — `PARTY☆NIGHT` 가사 044~085 포함 |
-| 재삽입·빌드 | 완료 — 비자막 번역 이미지 111장 포함 `build/digicomm_nyo_kr_name16.gba` |
-| **실기 검증** | **부분 완료 / UI 결함 발견** — 깨끗한 부팅·한글 출력 확인, 비압축 메뉴 문자열 깨짐 확인 |
+| 텍스트 추출 | 완료 — **313레코드 / 4,705줄**. 미번역처럼 보이는 36줄은 전부 `reinsertable=false`인 2~3글자 오탐 노이즈 |
+| 메시지 번역/재삽입 | 완료 — `messages.json`의 실제 재삽입 대상 **4,669 / 4,669 (100%)**, 별도 recovered 메시지 **142개**도 빌드에서 적용 |
+| 고정폭 raw UI | 완료 — 최종 클린 빌드 **311개 적용**. `ui_strings.json`의 미적용 132개는 일반 UI 누락이 아니라 **원 제작진 크레딧 112 / 이름 금칙어 사전 18 / 추출 파편 1 / 카타카나 입력 테이블 1**로 의도 보존 |
+| 폰트 | 완료 — 12x12/10x10 한글 **2,350자**, 이름입력·HUD용 8x8 확장 및 받침 조합 포함 |
+| 일반 MCM/MBM 이미지 | 완료 — 최종 일반 경로 **109장 역렌더 검증**, 런타임 민감 자산은 별도 exact/recovery 정책으로 보존 |
+| 자막·가사 이미지 | **완료 — 350 / 350 ROM 재삽입 및 역렌더 검증**. 334장은 원본 슬롯에 직접 삽입, 16장은 fit override 사용. 이 중 읽기 어려웠던 9장은 **흰 글자 본문 100% 보존 + 남색 외곽선만 제거**한 가독성 우선본으로 재생성. `failed=0`, `relocated=0` |
+| raw OBJ 카드 | 완료 — `cardName.json` 기준 **33장** |
+| raw OBJ 메뉴 | 완료 — **37장** |
+| 이름입력/명함 보기 버튼 | 완료 — 이름입력 2단계 받침 + 확대 포커스, raw 버튼 **9장**, 하단 `취소 / 삭제 / 정렬` 원본 회색 디자인 |
+| 미니게임 UI | 완료 — `만엔/명`, 날짜, 상태 라벨, 2줄 `가짜 *`, 카드효과 상태, 블랙 게이머즈, 캐릭터명 8x8 누락 글리프까지 빌드 체인 통합 |
+| 기타 UI | 완료 — 종료 버튼, 타이틀 START, 카드 상세 종류 라벨 등 최신 수정 포함 |
+| 정적 검증 | 완료 — 이미지/자막 재삽입 **relocation 0**, 고정 슬롯 overflow 0, 최종 빌드 16 MiB 유지 |
+| 런타임 검증 | 핵심 부팅/메뉴/상점/미니게임/이름입력/버튼/상태 화면은 작업 과정에서 반복 검증. 이번 350장 자막 통합은 전 항목 정적 역렌더 검증 완료 |
+| 로컬 배포 패치 | 완료 — `release/digicomm_nyo_kr_final_full.ips`, 원본 ROM 적용 결과가 최종 통합 ROM과 byte-for-byte 동일. **현재 공개 Git에는 IPS를 포함하지 않음** |
 
-빌드 결과:
+최종 클린 빌드 로그 핵심:
 
 ```
 font cells hijacked : 2350
-records rebuilt     : 273 (159 relocated)
-messages translated : 3977
-bogus records skipped: 11
-free space used     : 81636 / 262144 bytes
+10x10 font patched  : 2350
+records rebuilt     : 284 (98 relocated)
+messages translated : 4669
+recovered messages  : 142
+raw UI strings      : 311
+caption images      : 350 verified / 0 failed / 0 relocated
+bogus records skipped: 0
 ```
 
-현재 최종 통합 빌드: `build/digicomm_nyo_kr_final.gba`
+현재 최종 통합 빌드: `build/digicomm_nyo_kr_final_full.gba`
 
 현재 빌드 SHA-256:
-`86EDB44B0DAF3C6BE51811BDB3245390A4D2C1EB5F6295F288E138FCBAFBF48F`
+`161F4B20DFFBDA4D8692327A42E1BFC5B090239ABF3BC192E467D07B3E77F2D2`
 
-원본 ROM부터 새로 클린 빌드한 `digicomm_nyo_kr_final.gba`의 크기는 16,777,216 bytes다. 직전 버튼 정상본 `digicomm_nyo_kr_final_graybuttons.gba`와 비교하면 2,858 bytes가 달라지지만, 전부 8x8 MFM count `0xDD6810..0xDD6811`과 재배치된 8x8 glyph blob `0xFDC000..0xFDE000` 안에만 있으며 허용 범위 밖 변경은 0 bytes다.
+크기: **16,777,216 bytes**. 자막 350장도 이제 `gba_build.py`의 정식 빌드 단계이며, `assets/build_invariants.json`이 16개 fit override와 `expected_count=350`을 강제한다. 따라서 이후 원본 ROM에서 클린 빌드해도 자막이 빠지면 빌드가 실패한다.
 
-기준 베이스는 최신 메시지 + `cardName.json` 기준 카드 이미지 + 새 종료 버튼 + 최종 미니게임 상태 라벨이 반영된 `build/digicomm_nyo_kr_cards_messages_exit_final.gba`이며, 마지막에 `tools/gba_nameentry_batchim.py`를 적용해 받침 2단계 조합과 포커스 확대 글리프를 추가한다. 이 단계는 `gba_build.py` 이름 입력 파이프라인에도 영구 연결되어 재빌드 시 유지된다.
+로컬 배포용 IPS (공개 Git 제외): `release/digicomm_nyo_kr_final_full.ips`
+
+- 원본 ROM SHA-256: `3A098B5963DAF8BF38D67780F95325158FE09783980B1B74FA24BA02ECD16A5C`
+- 패치된 최종 ROM SHA-256: `161F4B20DFFBDA4D8692327A42E1BFC5B090239ABF3BC192E467D07B3E77F2D2`
+- IPS SHA-256: `CFAC8E3C10F9C98743C09600949F2215EDCDF03EAC80993A1B7337E98BC742AD`
+- IPS 크기: **811,639 bytes**
+- 검증: 원본 ROM → IPS 적용 결과가 `build/digicomm_nyo_kr_final_full.gba`와 **byte-for-byte 동일**
+
+`digicomm_nyo_kr_final.gba`는 정리 시점에 다른 프로그램이 파일을 열고 있어 Windows가 덮어쓰기를 거부했으므로, 최신 완전 통합본은 위 `digicomm_nyo_kr_final_full.gba`를 기준으로 한다.
+
+## 2026-08-31 자막 fit 가독성 우선 재생성
+
+`assets/captions_kr_fit`의 기존 16개 override 중 사용자가 실기 확인에서 아예 읽기 어렵다고 판단한 9개를 삭제했다. 해당 9개를 예전처럼 높은 tolerance로 8x8 타일을 서로 합치는 방식으로 복원하면 글자 획 자체가 다른 타일로 치환되어 같은 문제가 반복되므로, 가독성 우선 방식으로 다시 생성했다.
+
+재생성 대상: `026 / 042 / 097 / 111 / 129 / 138 / 147 / 183 / 184`.
+
+원본 `captions_kr`의 3색 구조는 검정 `(0,0,0)` 배경 + 남색 `(24,40,96)` 외곽선 + 흰색 `(248,248,248)` 글자 본문이다. 새 fit본은 **흰색 글자 본문의 위치와 픽셀을 단 하나도 변경하지 않고**, 압축을 크게 증가시키는 남색 장식 외곽선만 검은 배경으로 합쳤다. 9개 모두 `white_mask_exact=True`, 즉 한글 본문 픽셀은 원본 번역 PNG와 100% 동일하다.
+
+9개 모두 이 2색 형태만으로 원본 물리 슬롯에 들어가 별도의 타일 병합이 필요하지 않았다. 전체 원본 ROM 클린 빌드에서 자막 **350/350 verified**, `missing=0`, `failed=0`, `relocated=0`; 최종 ROM에서 9개를 다시 역렌더한 결과도 `captions_kr_fit`과 각각 **pixel_exact=True / diff_pixels=0**이다.
+
+`gba_fit_image_quality.py`에 `--preserve-glyph-core` 모드를 추가했고 `build_invariants.json`에도 `readability_first_fit_files` 9개와 정책을 기록했다. `captions_kr` 원본 번역 이미지는 수정하지 않는다.
+
+최종 ROM SHA-256: `161F4B20DFFBDA4D8692327A42E1BFC5B090239ABF3BC192E467D07B3E77F2D2`
+
+## 2026-08-31 사용자 수정 240x160 이미지 `0b0dfec` / `0b388f4` 최종 반영
+
+사용자가 `assets/image_extraction/japanese_images/translated_png/`에 직접 수정한 `0b0dfec_240x160.png`와 `0b388f4_240x160.png`를 새 권위 원본으로 사용한다. 두 PNG는 일반 RGB 편집 과정에서 GBA 원본 8bpp 팔레트 밖 색을 포함해 그대로는 재삽입할 수 없었다.
+
+최종 정책은 **일본 원본 ROM의 해당 이미지 팔레트/원래 물리 슬롯을 기준**으로 한다. `gba_image_reinsert.py`에 오프셋별 `--snap-to-source-palette`를 추가해 사용자 PNG 자체는 수정하지 않고 빌드 중에만 가장 가까운 원본 팔레트 색으로 변환한다. 이후 `gba_fit_image_quality.py`가 실제 소스 codec과 동일한 압축 경로를 사용해 최소 타일 병합 fit본을 만든다.
+
+- `0xB0DFEC` → 사용자 원본 `translated_png/0b0dfec_240x160.png`
+  - runtime source override: `fitted_png/0b0dfec_240x160.png`
+  - 원본 ROM 팔레트 스냅 대상 픽셀: 13,609
+  - 최소 fit tolerance: **1**
+  - fit 압축 예상: **4,816 / 5,372 bytes**
+  - 최종 클린 빌드: codec **3 → 3**, in-place, tile count **292 유지**, 역렌더 검증 PASS
+- `0xB388F4` → 사용자 원본 `translated_png/0b388f4_240x160.png`
+  - runtime source override: `fitted_png/0b388f4_240x160.png`
+  - 원본 ROM 팔레트 스냅 대상 픽셀: 11,464
+  - 최소 fit tolerance: **1**
+  - fit 압축 예상: **4,768 / 4,988 bytes**
+  - 최종 클린 빌드: source codec **3 유지**, `source_zero_unused`, tile count **296 유지**, 역렌더 검증 PASS
+
+`assets/build_invariants.json`의 `source_overrides`, `snap_to_source_palette_offsets`, `user_source_fit_assets`에 영구 등록했다. 원본 일본어 ROM부터 전체 클린 빌드 결과 일반 이미지 **109/109 verified**, 자막 **350/350 verified**, 이미지 relocation **0**, failed **0**이다. 직전 최종본 대비 변경은 10,979 bytes이며 범위는 `0xB0E014..0xB3A0A3` 안으로 두 이미지의 MCM/타일 데이터 영역에 한정된다.
+
+최종 ROM: `build/digicomm_nyo_kr_final_full.gba`
+SHA-256: `9A3D46C0EA7E5AC8675813E08A4B650770FF93729FE60FB74BA611E83825FCC2`
 
 ## 2026-08-31 미니게임 캐릭터명 8x8 받침/누락 글리프 수정
 
@@ -596,7 +652,9 @@ KS X 1001 2,350자를 전수 검사해 셀 밖 글리프 0개, 빈 글리프 0�
 `reinsertable: False` 레코드를 건너뛴다. (모델이 `ゑ引`에 대고 "번역할 원문을
 입력해 주세요"라고 답한 것이 단서였다.)
 
-## 남은 작업
+## 당시 남은 작업 (이후 모두 해결)
+
+> 아래 5개 항목은 이 시점의 역사 기록이다. 현재 상태에서는 모두 후속 작업으로 해결됐으며, 문서 상단 `현재 상태`를 최종 기준으로 한다.
 
 1. **메인 메뉴 UI 결함 해결** — emucap 관리형 Mesen에서 새 ROM을 깨끗하게
    부팅하면 타이틀과 첫 메뉴까지 정상 진입하고 `게임으로 논다뇨`가 올바른 한글과
@@ -1053,7 +1111,7 @@ SHA-256: `637E39BAC2AF3BA44BC6801AAE15042E28EFC72862A8345AB0F12AFE0AF6F527`
 추출기도 첫 섹션만 읽었으므로, 위 18개 레코드의 뒤쪽 섹션에 있는 대사는
 `messages.json`에 아예 없다. 실행 화면에서 튜토리얼의 `ここまでの説明はわかったゲマ?`
 가 일본어로 남아 있는 것이 그 증거다. `gba_text_extract.py`도 체인 전체를 읽도록
-고쳐 재추출·번역해야 한다. (미착수)
+고쳐 재추출·번역해야 했다. **(당시 미착수 — 이후 전체 섹션 재추출·번역 완료)**
 
 ## 2026-08-28 (5) — 메인 메뉴 라벨은 MBM이 아니라 원시 OBJ 스프라이트
 
@@ -1086,10 +1144,10 @@ VRAM 타일을 ROM에서 그대로 찾으니 `0xF91360`(왼쪽) / `0xF91764`(오
   뱅크 15)를 쓴다
 
 **재삽입은 크기 위험이 없다.** 비압축 고정 크기 블록이라 버튼 6개와 똑같이 제자리
-덮어쓰기면 된다. 번역·재작화는 미착수.
+덮어쓰기면 된다. **번역·재작화는 당시 미착수였으나 이후 완료됐다.**
 
 타이틀 화면의 `スタート`는 이 표에 없다. OAM이 전부 비활성이었으므로 BG 레이어이며
-별도 추적이 필요하다. (미착수)
+별도 추적이 필요했다. **(당시 미착수 — 이후 타이틀 START 한글화 완료)**
 
 
 ## 2026-08-28 (6) — 잘려 있던 섹션의 미추출 대사 재추출
@@ -1220,7 +1278,7 @@ SHA-256: `B28DE64BA80B3D5B4C0FE1B536AF0F056DAEF54CB7A1482AA3BB8134254512C9`
 비압축 고정 크기 블록이므로 이름 입력 버튼 6개와 똑같이 제자리 덮어쓰기다.
 압축·재배치·슬롯 문제가 전혀 없다. 남은 일은 한글 재작화뿐이며,
 `gba_patch_rom_buttons.py`가 쓰는 Galmuri 8px 비트맵 폰트를 그대로 쓰면 된다.
-(미착수)
+**(당시 미착수 — 이후 카드/메뉴 OBJ 한글화 완료)**
 
 
 ## 2026-08-28 (8) — 보드 카드·버튼 한글화 (`name37`)
@@ -1284,7 +1342,7 @@ assets/obj_labels/
   cards/compare_original_translated.png   좌=원본 우=번역 대조 시트
   cards_spec.json         오프셋·사각형·문구
   board_pram.bin          보드 화면 팔레트(뱅크 15)
-  menu/png/               메뉴 라벨 원본 41장 (번역 미착수)
+  menu/png/               메뉴 라벨 원본 41장 (당시 번역 미착수 — 이후 최종 빌드 37장 적용)
   menu_pram.bin
 ```
 

@@ -1,0 +1,3152 @@
+[
+  {
+    "index": 0,
+    "offset_hex": "0x9f378",
+    "file": "000_0x9f378.png",
+    "width": 160,
+    "height": 16,
+    "translation": "Eternal Love ～빛의 천사로부터～",
+    "source": "Eternal Love ～光の天使より～"
+  },
+  {
+    "index": 1,
+    "offset_hex": "0x9f5f0",
+    "file": "001_0x9f5f0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "여기 모여라!",
+    "source": "この指とまれ!"
+  },
+  {
+    "index": 2,
+    "offset_hex": "0x9f7bc",
+    "file": "002_0x9f7bc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "ONLY★YOU～당신을 지키고 싶어～",
+    "source": "ONLY★YOU～君を守りたい～"
+  },
+  {
+    "index": 3,
+    "offset_hex": "0x9fa2c",
+    "file": "003_0x9fa2c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "PARTY★NIGHT(파라파라ver)",
+    "source": "PARTY★NIGHT(パラパラアレンジver)"
+  },
+  {
+    "index": 4,
+    "offset_hex": "0x9fccc",
+    "file": "004_0x9fccc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "친구～for my friend～",
+    "source": "ともだち～for my friend～"
+  },
+  {
+    "index": 5,
+    "offset_hex": "0x9fef8",
+    "file": "005_0x9fef8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "Voice of Heart",
+    "source": "Voice of Heart"
+  },
+  {
+    "index": 6,
+    "offset_hex": "0xa0084",
+    "file": "006_0xa0084.png",
+    "width": 160,
+    "height": 16,
+    "translation": "Welcome! 2000",
+    "source": "Welcome! 2000"
+  },
+  {
+    "index": 7,
+    "offset_hex": "0xa022c",
+    "file": "007_0xa022c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "햇님에게 물어보는 거다뇨♡",
+    "source": "おてんとさまに聞いてみるにょ♡"
+  },
+  {
+    "index": 8,
+    "offset_hex": "0xa04f0",
+    "file": "008_0xa04f0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "당신과 HAPPY!",
+    "source": "君とHAPPY!"
+  },
+  {
+    "index": 9,
+    "offset_hex": "0xa06a0",
+    "file": "009_0xa06a0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "Happy Day",
+    "source": "Happy Day"
+  },
+  {
+    "index": 10,
+    "offset_hex": "0xa0810",
+    "file": "010_0xa0810.png",
+    "width": 160,
+    "height": 16,
+    "translation": "영업 준비 ok?",
+    "source": "仕込みはok?"
+  },
+  {
+    "index": 11,
+    "offset_hex": "0xa09e0",
+    "file": "011_0xa09e0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "let's open!",
+    "source": "let's open!"
+  },
+  {
+    "index": 12,
+    "offset_hex": "0xa0b48",
+    "file": "012_0xa0b48.png",
+    "width": 160,
+    "height": 16,
+    "translation": "하루 종일 느긋하게",
+    "source": "ひねもすのたり"
+  },
+  {
+    "index": 13,
+    "offset_hex": "0xa0d20",
+    "file": "013_0xa0d20.png",
+    "width": 160,
+    "height": 16,
+    "translation": "번지 촙",
+    "source": "バンジーチョップ"
+  },
+  {
+    "index": 14,
+    "offset_hex": "0xa0ed8",
+    "file": "014_0xa0ed8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "삐・뚤・어・져",
+    "source": "や・さ・ぐ・れ"
+  },
+  {
+    "index": 15,
+    "offset_hex": "0xa1060",
+    "file": "015_0xa1060.png",
+    "width": 160,
+    "height": 16,
+    "translation": "자 승부다뇨",
+    "source": "いざ勝負にょ"
+  },
+  {
+    "index": 16,
+    "offset_hex": "0xa1214",
+    "file": "016_0xa1214.png",
+    "width": 160,
+    "height": 16,
+    "translation": "부지런하네♪",
+    "source": "はたらきものね♪"
+  },
+  {
+    "index": 17,
+    "offset_hex": "0xa1408",
+    "file": "017_0xa1408.png",
+    "width": 160,
+    "height": 16,
+    "translation": "물 뿌리기 sunshine",
+    "source": "打ち水 sunshine"
+  },
+  {
+    "index": 18,
+    "offset_hex": "0xa15d0",
+    "file": "018_0xa15d0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "흐린 하늘 lover",
+    "source": "どんてん lover"
+  },
+  {
+    "index": 19,
+    "offset_hex": "0xa1764",
+    "file": "019_0xa1764.png",
+    "width": 160,
+    "height": 16,
+    "translation": "반칙 마마",
+    "source": "反則ママ"
+  },
+  {
+    "index": 20,
+    "offset_hex": "0xa18e0",
+    "file": "020_0xa18e0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "당연한 거다뇨",
+    "source": "当然ですかにょ"
+  },
+  {
+    "index": 21,
+    "offset_hex": "0xa1ab8",
+    "file": "021_0xa1ab8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "너무한 거다뇨",
+    "source": "あんまりですにょ"
+  },
+  {
+    "index": 22,
+    "offset_hex": "0xa1c8c",
+    "file": "022_0xa1c8c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "내일로 step up!",
+    "source": "明日に step up!"
+  },
+  {
+    "index": 23,
+    "offset_hex": "0xa1e44",
+    "file": "023_0xa1e44.png",
+    "width": 160,
+    "height": 16,
+    "translation": "Happy Day (BGMver)",
+    "source": "Happy Day (BGMver)"
+  },
+  {
+    "index": 24,
+    "offset_hex": "0xa203c",
+    "file": "024_0xa203c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "easy runner",
+    "source": "easy runner"
+  },
+  {
+    "index": 25,
+    "offset_hex": "0xa219c",
+    "file": "025_0xa219c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "하늘색candy",
+    "source": "空色candy"
+  },
+  {
+    "index": 26,
+    "offset_hex": "0xa231c",
+    "file": "026_0xa231c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "꽃구경에 동그라미",
+    "source": "花見にマル"
+  },
+  {
+    "index": 27,
+    "offset_hex": "0xa24b0",
+    "file": "027_0xa24b0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "정리정돈",
+    "source": "整理整とん"
+  },
+  {
+    "index": 28,
+    "offset_hex": "0xa2634",
+    "file": "028_0xa2634.png",
+    "width": 160,
+    "height": 16,
+    "translation": "헛수고",
+    "source": "くたびれもうけ"
+  },
+  {
+    "index": 29,
+    "offset_hex": "0xa31c0",
+    "file": "029_0xa31c0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "GBA판 편곡:사이토 아키요시",
+    "source": "GBA版編曲:斉藤彰良"
+  },
+  {
+    "index": 30,
+    "offset_hex": "0xa3424",
+    "file": "030_0xa3424.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작・편곡:사카모토 유스케",
+    "source": "作・編曲:坂本裕介"
+  },
+  {
+    "index": 31,
+    "offset_hex": "0xa3648",
+    "file": "031_0xa3648.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작사:모리 유키",
+    "source": "作詞:森ユキ"
+  },
+  {
+    "index": 32,
+    "offset_hex": "0xa3804",
+    "file": "032_0xa3804.png",
+    "width": 160,
+    "height": 16,
+    "translation": "편곡:이와모토 마사키",
+    "source": "編曲:岩本正樹"
+  },
+  {
+    "index": 33,
+    "offset_hex": "0xa39f0",
+    "file": "033_0xa39f0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작곡:미야지마 리츠코",
+    "source": "作曲:宮島律子"
+  },
+  {
+    "index": 34,
+    "offset_hex": "0xa3bc8",
+    "file": "034_0xa3bc8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작사:네즈 요코",
+    "source": "作詞:根津洋子"
+  },
+  {
+    "index": 35,
+    "offset_hex": "0xa3dc4",
+    "file": "035_0xa3dc4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작곡:치자와 진",
+    "source": "作曲:千沢仁"
+  },
+  {
+    "index": 36,
+    "offset_hex": "0xa3f70",
+    "file": "036_0xa3f70.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작사:쿠와 카논",
+    "source": "作詞:久和カノン"
+  },
+  {
+    "index": 37,
+    "offset_hex": "0xa416c",
+    "file": "037_0xa416c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "노래:사나다・사와시로・히카미",
+    "source": "歌:真田アサミ・沢城みゆき・氷上恭子"
+  },
+  {
+    "index": 38,
+    "offset_hex": "0xa447c",
+    "file": "038_0xa447c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "노래:사나다 아사미・카토 히로코",
+    "source": "歌:真田アサミ・かとうひろこ"
+  },
+  {
+    "index": 39,
+    "offset_hex": "0xa4708",
+    "file": "039_0xa4708.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작사:코게돈보",
+    "source": "作詞:コゲどんぼ"
+  },
+  {
+    "index": 40,
+    "offset_hex": "0xa48ec",
+    "file": "040_0xa48ec.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작곡:요시나카 미키",
+    "source": "作曲:吉中美樹"
+  },
+  {
+    "index": 41,
+    "offset_hex": "0xa4ac0",
+    "file": "041_0xa4ac0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작곡:코야노 켄이치",
+    "source": "作曲:小谷野謙一"
+  },
+  {
+    "index": 42,
+    "offset_hex": "0xa4ca8",
+    "file": "042_0xa4ca8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작곡:이와타 마사하루",
+    "source": "作曲:岩田匡治"
+  },
+  {
+    "index": 43,
+    "offset_hex": "0xa4e78",
+    "file": "043_0xa4e78.png",
+    "width": 160,
+    "height": 16,
+    "translation": "작곡:나미키 마나부",
+    "source": "作曲:並木学"
+  },
+  {
+    "index": 44,
+    "offset_hex": "0xa5628",
+    "file": "044_0xa5628.png",
+    "width": 160,
+    "height": 16,
+    "translation": "Hold me baby",
+    "source": "Hold me baby"
+  },
+  {
+    "index": 45,
+    "offset_hex": "0xa57a4",
+    "file": "045_0xa57a4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "춤춰요 Sunday",
+    "source": "踊ろうよSunday"
+  },
+  {
+    "index": 46,
+    "offset_hex": "0xa598c",
+    "file": "046_0xa598c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "Touch me baby",
+    "source": "Touch me baby"
+  },
+  {
+    "index": 47,
+    "offset_hex": "0xa5b14",
+    "file": "047_0xa5b14.png",
+    "width": 160,
+    "height": 16,
+    "translation": "기분은 Holiday",
+    "source": "気分はHoliday"
+  },
+  {
+    "index": 48,
+    "offset_hex": "0xa5cdc",
+    "file": "048_0xa5cdc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "짜증나는 일들 전부 잊어버려요",
+    "source": "イヤな事ぜんぶ忘れちゃおう"
+  },
+  {
+    "index": 49,
+    "offset_hex": "0xa5f88",
+    "file": "049_0xa5f88.png",
+    "width": 160,
+    "height": 16,
+    "translation": "하룻밤 자고 눈을 뜨면",
+    "source": "一晩眠って目ざめたら"
+  },
+  {
+    "index": 50,
+    "offset_hex": "0xa61b4",
+    "file": "050_0xa61b4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "Happy girl",
+    "source": "happy girl"
+  },
+  {
+    "index": 51,
+    "offset_hex": "0xa6320",
+    "file": "051_0xa6320.png",
+    "width": 160,
+    "height": 16,
+    "translation": "꿈속에서 마주치는 신비함",
+    "source": "夢の途中で出会う不思議"
+  },
+  {
+    "index": 52,
+    "offset_hex": "0xa65c8",
+    "file": "052_0xa65c8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "악몽을 먹고 사는 괴물들도",
+    "source": "悪夢を食べてるバクたちも"
+  },
+  {
+    "index": 53,
+    "offset_hex": "0xa685c",
+    "file": "053_0xa685c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "good friends",
+    "source": "good friends"
+  },
+  {
+    "index": 54,
+    "offset_hex": "0xa69c8",
+    "file": "054_0xa69c8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "여느때라면",
+    "source": "いつもならば"
+  },
+  {
+    "index": 55,
+    "offset_hex": "0xa6b7c",
+    "file": "055_0xa6b7c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "말도 안하던",
+    "source": "おしゃべりもしない"
+  },
+  {
+    "index": 56,
+    "offset_hex": "0xa6d74",
+    "file": "056_0xa6d74.png",
+    "width": 160,
+    "height": 16,
+    "translation": "재미없는 사람도",
+    "source": "きゅうくつな人"
+  },
+  {
+    "index": 57,
+    "offset_hex": "0xa6f34",
+    "file": "057_0xa6f34.png",
+    "width": 160,
+    "height": 16,
+    "translation": "경쾌한 리듬으로 변신",
+    "source": "陽気なリズムで変身"
+  },
+  {
+    "index": 58,
+    "offset_hex": "0xa7178",
+    "file": "058_0xa7178.png",
+    "width": 160,
+    "height": 16,
+    "translation": "들떠있는 lady",
+    "source": "ウキウキlady"
+  },
+  {
+    "index": 59,
+    "offset_hex": "0xa7328",
+    "file": "059_0xa7328.png",
+    "width": 160,
+    "height": 16,
+    "translation": "스트레스는 쌓아두지마요",
+    "source": "ストレスはためないで"
+  },
+  {
+    "index": 60,
+    "offset_hex": "0xa7544",
+    "file": "060_0xa7544.png",
+    "width": 160,
+    "height": 16,
+    "translation": "반짝이는 body",
+    "source": "キラキラbody"
+  },
+  {
+    "index": 61,
+    "offset_hex": "0xa76e8",
+    "file": "061_0xa76e8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "refresh해요",
+    "source": "リフレッシュしよう"
+  },
+  {
+    "index": 62,
+    "offset_hex": "0xa78ac",
+    "file": "062_0xa78ac.png",
+    "width": 160,
+    "height": 16,
+    "translation": "마음에도 영양을",
+    "source": "心にも栄養を"
+  },
+  {
+    "index": 63,
+    "offset_hex": "0xa7a88",
+    "file": "063_0xa7a88.png",
+    "width": 160,
+    "height": 16,
+    "translation": "별하늘의 멜로디",
+    "source": "星空のメロディー"
+  },
+  {
+    "index": 64,
+    "offset_hex": "0xa7c58",
+    "file": "064_0xa7c58.png",
+    "width": 160,
+    "height": 16,
+    "translation": "TV게임과 만화에만 빠져",
+    "source": "TVゲームやマンガばかり"
+  },
+  {
+    "index": 65,
+    "offset_hex": "0xa7e9c",
+    "file": "065_0xa7e9c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "밖에도 나가지않고 지내면",
+    "source": "外にも出ないで過ごしたら"
+  },
+  {
+    "index": 66,
+    "offset_hex": "0xa811c",
+    "file": "066_0xa811c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "lonesome boy",
+    "source": "lonesome boy"
+  },
+  {
+    "index": 67,
+    "offset_hex": "0xa8290",
+    "file": "067_0xa8290.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아르바이트벌레도 공부벌레도",
+    "source": "バイトの虫もガリ勉君も"
+  },
+  {
+    "index": 68,
+    "offset_hex": "0xa84e8",
+    "file": "068_0xa84e8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "때로는 아침까지",
+    "source": "たまには朝まで"
+  },
+  {
+    "index": 69,
+    "offset_hex": "0xa86bc",
+    "file": "069_0xa86bc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "놀아봐요 nice time",
+    "source": "遊んじゃえnice time"
+  },
+  {
+    "index": 70,
+    "offset_hex": "0xa88b8",
+    "file": "070_0xa88b8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "살아가는데",
+    "source": "生きることに"
+  },
+  {
+    "index": 71,
+    "offset_hex": "0xa8a64",
+    "file": "071_0xa8a64.png",
+    "width": 160,
+    "height": 16,
+    "translation": "교과서는 없어요",
+    "source": "テキストはないよ"
+  },
+  {
+    "index": 72,
+    "offset_hex": "0xa8c3c",
+    "file": "072_0xa8c3c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "맨발로 신나게 놀아요",
+    "source": "裸足のまま騒ごう"
+  },
+  {
+    "index": 73,
+    "offset_hex": "0xa8e50",
+    "file": "073_0xa8e50.png",
+    "width": 160,
+    "height": 16,
+    "translation": "구두따윈 벗어버리고",
+    "source": "クツなんて脱ぎ捨て"
+  },
+  {
+    "index": 74,
+    "offset_hex": "0xa9074",
+    "file": "074_0xa9074.png",
+    "width": 160,
+    "height": 16,
+    "translation": "흥겹게 party",
+    "source": "ノリノリparty"
+  },
+  {
+    "index": 75,
+    "offset_hex": "0xa9200",
+    "file": "075_0xa9200.png",
+    "width": 160,
+    "height": 16,
+    "translation": "눈동자까지 빛내며",
+    "source": "瞳まで輝いて"
+  },
+  {
+    "index": 76,
+    "offset_hex": "0xa93c4",
+    "file": "076_0xa93c4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "are you ready ok?",
+    "source": "are you ready ok?"
+  },
+  {
+    "index": 77,
+    "offset_hex": "0xa9584",
+    "file": "077_0xa9584.png",
+    "width": 160,
+    "height": 16,
+    "translation": "즐겨요 당신도",
+    "source": "楽しもう君も"
+  },
+  {
+    "index": 78,
+    "offset_hex": "0xa9744",
+    "file": "078_0xa9744.png",
+    "width": 160,
+    "height": 16,
+    "translation": "스텝을 밟아봐요",
+    "source": "ステップを踏みましょう"
+  },
+  {
+    "index": 79,
+    "offset_hex": "0xa9974",
+    "file": "079_0xa9974.png",
+    "width": 160,
+    "height": 16,
+    "translation": "스페셜한 순간을",
+    "source": "スペシャルな瞬間を"
+  },
+  {
+    "index": 80,
+    "offset_hex": "0xa9b8c",
+    "file": "080_0xa9b8c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "너무나 지쳐서 기가 죽은 날에는",
+    "source": "疲れすぎて臆病な日には"
+  },
+  {
+    "index": 81,
+    "offset_hex": "0xa9e04",
+    "file": "081_0xa9e04.png",
+    "width": 160,
+    "height": 16,
+    "translation": "눈을 감고서",
+    "source": "まぶた閉じて"
+  },
+  {
+    "index": 82,
+    "offset_hex": "0xa9fb4",
+    "file": "082_0xa9fb4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "액세스",
+    "source": "アクセス"
+  },
+  {
+    "index": 83,
+    "offset_hex": "0xaa118",
+    "file": "083_0xaa118.png",
+    "width": 160,
+    "height": 16,
+    "translation": "해봐요",
+    "source": "してみて"
+  },
+  {
+    "index": 84,
+    "offset_hex": "0xaa26c",
+    "file": "084_0xaa26c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "have a",
+    "source": "have a"
+  },
+  {
+    "index": 85,
+    "offset_hex": "0xaa3a4",
+    "file": "085_0xaa3a4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "PARTY NIGHT!",
+    "source": "PARTY NIGHT!"
+  },
+  {
+    "index": 86,
+    "offset_hex": "0xaa550",
+    "file": "086_0xaa550.png",
+    "width": 160,
+    "height": 16,
+    "translation": "대단해!",
+    "source": "すごいわ!"
+  },
+  {
+    "index": 87,
+    "offset_hex": "0xaa6d8",
+    "file": "087_0xaa6d8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "좌절하면 안 돼!",
+    "source": "くじけちゃダメ!"
+  },
+  {
+    "index": 88,
+    "offset_hex": "0xaa8a4",
+    "file": "088_0xaa8a4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "돈마이!",
+    "source": "ドンマイ!"
+  },
+  {
+    "index": 89,
+    "offset_hex": "0xaaa10",
+    "file": "089_0xaaa10.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아직 시작이야!",
+    "source": "まだこれからよ!"
+  },
+  {
+    "index": 90,
+    "offset_hex": "0xaac00",
+    "file": "090_0xaac00.png",
+    "width": 160,
+    "height": 16,
+    "translation": "꿈을 포기하지 마!",
+    "source": "夢をあきらめないで!"
+  },
+  {
+    "index": 91,
+    "offset_hex": "0xaae48",
+    "file": "091_0xaae48.png",
+    "width": 160,
+    "height": 16,
+    "translation": "음~…",
+    "source": "ん～…"
+  },
+  {
+    "index": 92,
+    "offset_hex": "0xaaf68",
+    "file": "092_0xaaf68.png",
+    "width": 160,
+    "height": 16,
+    "translation": "해냈어!",
+    "source": "やったわ!"
+  },
+  {
+    "index": 93,
+    "offset_hex": "0xab0e8",
+    "file": "093_0xab0e8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "대단해 대단해",
+    "source": "すごいすごい"
+  },
+  {
+    "index": 94,
+    "offset_hex": "0xab298",
+    "file": "094_0xab298.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아직, 괜찮아!",
+    "source": "まだ、だいじょうぶ!"
+  },
+  {
+    "index": 95,
+    "offset_hex": "0xab498",
+    "file": "095_0xab498.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그런…",
+    "source": "そんな…"
+  },
+  {
+    "index": 96,
+    "offset_hex": "0xab5f8",
+    "file": "096_0xab5f8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이 카드로!",
+    "source": "このカードで!"
+  },
+  {
+    "index": 97,
+    "offset_hex": "0xab7a0",
+    "file": "097_0xab7a0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "좋아!",
+    "source": "よし!"
+  },
+  {
+    "index": 98,
+    "offset_hex": "0xab8c8",
+    "file": "098_0xab8c8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어떠려나?",
+    "source": "どうかな?"
+  },
+  {
+    "index": 99,
+    "offset_hex": "0xaba60",
+    "file": "099_0xaba60.png",
+    "width": 160,
+    "height": 16,
+    "translation": "에엣!?",
+    "source": "ええっ!?"
+  },
+  {
+    "index": 100,
+    "offset_hex": "0xabbd0",
+    "file": "100_0xabbd0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "미안해…",
+    "source": "ごめんなさい…"
+  },
+  {
+    "index": 101,
+    "offset_hex": "0xabd8c",
+    "file": "101_0xabd8c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그렇게는 안 되지!",
+    "source": "そうはいかないわ!"
+  },
+  {
+    "index": 102,
+    "offset_hex": "0xabf9c",
+    "file": "102_0xabf9c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "부탁이야…",
+    "source": "お願い…"
+  },
+  {
+    "index": 103,
+    "offset_hex": "0xac108",
+    "file": "103_0xac108.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이제, 안심이네",
+    "source": "もう、安心ね"
+  },
+  {
+    "index": 104,
+    "offset_hex": "0xac2c0",
+    "file": "104_0xac2c0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "낙승일지도",
+    "source": "楽勝かも"
+  },
+  {
+    "index": 105,
+    "offset_hex": "0xac454",
+    "file": "105_0xac454.png",
+    "width": 160,
+    "height": 16,
+    "translation": "조급해하면 안 돼",
+    "source": "あせっちゃダメよ"
+  },
+  {
+    "index": 106,
+    "offset_hex": "0xac638",
+    "file": "106_0xac638.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어, 어떡하지…",
+    "source": "ど、どうしよう…"
+  },
+  {
+    "index": 107,
+    "offset_hex": "0xac7d4",
+    "file": "107_0xac7d4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "화났어!",
+    "source": "怒ったわ!"
+  },
+  {
+    "index": 108,
+    "offset_hex": "0xac96c",
+    "file": "108_0xac96c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어머, 멋져",
+    "source": "まぁ、素敵"
+  },
+  {
+    "index": 109,
+    "offset_hex": "0xacaf8",
+    "file": "109_0xacaf8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "좋은 느낌",
+    "source": "いい感じ"
+  },
+  {
+    "index": 110,
+    "offset_hex": "0xacc64",
+    "file": "110_0xacc64.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아하핫",
+    "source": "あははっ"
+  },
+  {
+    "index": 111,
+    "offset_hex": "0xacdd4",
+    "file": "111_0xacdd4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "으, 으~음",
+    "source": "う、う～ん"
+  },
+  {
+    "index": 112,
+    "offset_hex": "0xacf34",
+    "file": "112_0xacf34.png",
+    "width": 160,
+    "height": 16,
+    "translation": "너무해…",
+    "source": "ひどい…"
+  },
+  {
+    "index": 113,
+    "offset_hex": "0xad090",
+    "file": "113_0xad090.png",
+    "width": 160,
+    "height": 16,
+    "translation": "낙승이다뇨!",
+    "source": "楽勝にょ!"
+  },
+  {
+    "index": 114,
+    "offset_hex": "0xad230",
+    "file": "114_0xad230.png",
+    "width": 160,
+    "height": 16,
+    "translation": "팍팍 가는 거다뇨",
+    "source": "ガンガンいくにょ"
+  },
+  {
+    "index": 115,
+    "offset_hex": "0xad418",
+    "file": "115_0xad418.png",
+    "width": 160,
+    "height": 16,
+    "translation": "지금부터다뇨",
+    "source": "ここからにょ"
+  },
+  {
+    "index": 116,
+    "offset_hex": "0xad59c",
+    "file": "116_0xad59c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뿌뿌~",
+    "source": "ぷっぷ～"
+  },
+  {
+    "index": 117,
+    "offset_hex": "0xad714",
+    "file": "117_0xad714.png",
+    "width": 160,
+    "height": 16,
+    "translation": "제법 하는 거다뇨",
+    "source": "なかなかやるにょ"
+  },
+  {
+    "index": 118,
+    "offset_hex": "0xad928",
+    "file": "118_0xad928.png",
+    "width": 160,
+    "height": 16,
+    "translation": "못 해먹겠다뇨-!",
+    "source": "やってらんないにょー!"
+  },
+  {
+    "index": 119,
+    "offset_hex": "0xadb3c",
+    "file": "119_0xadb3c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뇨와-!?",
+    "source": "にょわー!?"
+  },
+  {
+    "index": 120,
+    "offset_hex": "0xadcb8",
+    "file": "120_0xadcb8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "왔다뇨-!",
+    "source": "きたにょーっ!"
+  },
+  {
+    "index": 121,
+    "offset_hex": "0xade54",
+    "file": "121_0xade54.png",
+    "width": 160,
+    "height": 16,
+    "translation": "좋은 느낌이다뇨",
+    "source": "いい感じにょ"
+  },
+  {
+    "index": 122,
+    "offset_hex": "0xae000",
+    "file": "122_0xae000.png",
+    "width": 160,
+    "height": 16,
+    "translation": "안 되는 거다뇨!",
+    "source": "だめにょっ!"
+  },
+  {
+    "index": 123,
+    "offset_hex": "0xae198",
+    "file": "123_0xae198.png",
+    "width": 160,
+    "height": 16,
+    "translation": "받아라뇨",
+    "source": "くらうがいいにょ"
+  },
+  {
+    "index": 124,
+    "offset_hex": "0xae36c",
+    "file": "124_0xae36c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "대성공이다뇨",
+    "source": "大成功にょ"
+  },
+  {
+    "index": 125,
+    "offset_hex": "0xae518",
+    "file": "125_0xae518.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아쉽다뇨",
+    "source": "残念にょ"
+  },
+  {
+    "index": 126,
+    "offset_hex": "0xae6a0",
+    "file": "126_0xae6a0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "폭발이다뇨-!",
+    "source": "暴発にょーっ!"
+  },
+  {
+    "index": 127,
+    "offset_hex": "0xae85c",
+    "file": "127_0xae85c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "소용없다뇨",
+    "source": "ムダムダにょ"
+  },
+  {
+    "index": 128,
+    "offset_hex": "0xaea04",
+    "file": "128_0xaea04.png",
+    "width": 160,
+    "height": 16,
+    "translation": "맞아라뇨-",
+    "source": "当たれにょー"
+  },
+  {
+    "index": 129,
+    "offset_hex": "0xaeba0",
+    "file": "129_0xaeba0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "별, 별이다뇨!",
+    "source": "星、星にょ!"
+  },
+  {
+    "index": 130,
+    "offset_hex": "0xaed0c",
+    "file": "130_0xaed0c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "데지코 덕분이다뇨",
+    "source": "でじこのおかげにょ"
+  },
+  {
+    "index": 131,
+    "offset_hex": "0xaef0c",
+    "file": "131_0xaef0c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "하품이 나온다뇨",
+    "source": "あくびが出るにょ"
+  },
+  {
+    "index": 132,
+    "offset_hex": "0xaf104",
+    "file": "132_0xaf104.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아, 안 된다뇨!",
+    "source": "い、いかんにょ!"
+  },
+  {
+    "index": 133,
+    "offset_hex": "0xaf2cc",
+    "file": "133_0xaf2cc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어째서다뇨!?",
+    "source": "どうしてにょっ!?"
+  },
+  {
+    "index": 134,
+    "offset_hex": "0xaf498",
+    "file": "134_0xaf498.png",
+    "width": 160,
+    "height": 16,
+    "translation": "당연한 결과다뇨",
+    "source": "当然の結果にょ"
+  },
+  {
+    "index": 135,
+    "offset_hex": "0xaf690",
+    "file": "135_0xaf690.png",
+    "width": 160,
+    "height": 16,
+    "translation": "소용없다뇨!",
+    "source": "ムダにょ!"
+  },
+  {
+    "index": 136,
+    "offset_hex": "0xaf808",
+    "file": "136_0xaf808.png",
+    "width": 160,
+    "height": 16,
+    "translation": "소~용~없다뇨-",
+    "source": "ムーダーにょー"
+  },
+  {
+    "index": 137,
+    "offset_hex": "0xaf98c",
+    "file": "137_0xaf98c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뇨뇨~옹♪",
+    "source": "にょにょ～ん♪"
+  },
+  {
+    "index": 138,
+    "offset_hex": "0xafafc",
+    "file": "138_0xafafc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뇨옷뇨옷뇨옷",
+    "source": "にょっにょっにょっ"
+  },
+  {
+    "index": 139,
+    "offset_hex": "0xafc2c",
+    "file": "139_0xafc2c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그럭저럭이다뇨",
+    "source": "まぁまぁですかにょ"
+  },
+  {
+    "index": 140,
+    "offset_hex": "0xafe20",
+    "file": "140_0xafe20.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뿌~뿌뿌~",
+    "source": "ぷ～ぷっぷ～"
+  },
+  {
+    "index": 141,
+    "offset_hex": "0xaff94",
+    "file": "141_0xaff94.png",
+    "width": 160,
+    "height": 16,
+    "translation": "무슨 농담이다뇨",
+    "source": "なんの冗談ですかにょ"
+  },
+  {
+    "index": 142,
+    "offset_hex": "0xb01ec",
+    "file": "142_0xb01ec.png",
+    "width": 160,
+    "height": 16,
+    "translation": "눈에서 빔!!",
+    "source": "目からビーム!!"
+  },
+  {
+    "index": 143,
+    "offset_hex": "0xb03a0",
+    "file": "143_0xb03a0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그 전설의!",
+    "source": "あの伝説の!"
+  },
+  {
+    "index": 144,
+    "offset_hex": "0xb0570",
+    "file": "144_0xb0570.png",
+    "width": 160,
+    "height": 16,
+    "translation": "굉장, 너무 굉장하게마-",
+    "source": "凄い、凄すぎるゲマー"
+  },
+  {
+    "index": 145,
+    "offset_hex": "0xb0798",
+    "file": "145_0xb0798.png",
+    "width": 160,
+    "height": 16,
+    "translation": "대단하게마-",
+    "source": "すごいゲマー"
+  },
+  {
+    "index": 146,
+    "offset_hex": "0xb092c",
+    "file": "146_0xb092c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "나무랄 데 없게마",
+    "source": "申し分ないゲマ"
+  },
+  {
+    "index": 147,
+    "offset_hex": "0xb0afc",
+    "file": "147_0xb0afc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그런대로 괜찮게마",
+    "source": "まずまずゲマ"
+  },
+  {
+    "index": 148,
+    "offset_hex": "0xb0cb4",
+    "file": "148_0xb0cb4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "많게마-",
+    "source": "多いゲマー"
+  },
+  {
+    "index": 149,
+    "offset_hex": "0xb0e48",
+    "file": "149_0xb0e48.png",
+    "width": 160,
+    "height": 16,
+    "translation": "막상막하, 접전이게마",
+    "source": "五分と五分、接戦ゲマ"
+  },
+  {
+    "index": 150,
+    "offset_hex": "0xb104c",
+    "file": "150_0xb104c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "밀리고 있게마",
+    "source": "押されてるゲマ"
+  },
+  {
+    "index": 151,
+    "offset_hex": "0xb1234",
+    "file": "151_0xb1234.png",
+    "width": 160,
+    "height": 16,
+    "translation": "적게마",
+    "source": "少ないゲマ"
+  },
+  {
+    "index": 152,
+    "offset_hex": "0xb13d4",
+    "file": "152_0xb13d4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이대로는 위험하게마",
+    "source": "このままではマズイゲマ"
+  },
+  {
+    "index": 153,
+    "offset_hex": "0xb1614",
+    "file": "153_0xb1614.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이제 글렀게마-",
+    "source": "もう駄目ゲマー"
+  },
+  {
+    "index": 154,
+    "offset_hex": "0xb17e4",
+    "file": "154_0xb17e4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "엄청난 기세로",
+    "source": "もの凄い勢いで"
+  },
+  {
+    "index": 155,
+    "offset_hex": "0xb19dc",
+    "file": "155_0xb19dc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "점점",
+    "source": "どんどん"
+  },
+  {
+    "index": 156,
+    "offset_hex": "0xb1b38",
+    "file": "156_0xb1b38.png",
+    "width": 160,
+    "height": 16,
+    "translation": "서서히",
+    "source": "じりじりと"
+  },
+  {
+    "index": 157,
+    "offset_hex": "0xb1ca4",
+    "file": "157_0xb1ca4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "따라잡고 있게마",
+    "source": "追いついているゲマ"
+  },
+  {
+    "index": 158,
+    "offset_hex": "0xb1ea4",
+    "file": "158_0xb1ea4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "추격당하고 있게마",
+    "source": "追い上げられているゲマ"
+  },
+  {
+    "index": 159,
+    "offset_hex": "0xb20fc",
+    "file": "159_0xb20fc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "손님 수는",
+    "source": "お客さんの入りは"
+  },
+  {
+    "index": 160,
+    "offset_hex": "0xb230c",
+    "file": "160_0xb230c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "손님 수가",
+    "source": "お客さんの入りが"
+  },
+  {
+    "index": 161,
+    "offset_hex": "0xb252c",
+    "file": "161_0xb252c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "매상은",
+    "source": "売れ行きは"
+  },
+  {
+    "index": 162,
+    "offset_hex": "0xb26dc",
+    "file": "162_0xb26dc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "매상이",
+    "source": "売れ行きが"
+  },
+  {
+    "index": 163,
+    "offset_hex": "0xb2888",
+    "file": "163_0xb2888.png",
+    "width": 160,
+    "height": 16,
+    "translation": "매상도 손님도",
+    "source": "売れ行きもお客さんも"
+  },
+  {
+    "index": 164,
+    "offset_hex": "0xb2ad8",
+    "file": "164_0xb2ad8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "추월했게마",
+    "source": "追い抜いたゲマ"
+  },
+  {
+    "index": 165,
+    "offset_hex": "0xb2cc0",
+    "file": "165_0xb2cc0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "따라잡았게마",
+    "source": "追いついたゲマ"
+  },
+  {
+    "index": 166,
+    "offset_hex": "0xb2e98",
+    "file": "166_0xb2e98.png",
+    "width": 160,
+    "height": 16,
+    "translation": "따라잡혔게마",
+    "source": "追いつかれたゲマ"
+  },
+  {
+    "index": 167,
+    "offset_hex": "0xb30a0",
+    "file": "167_0xb30a0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "추월당했게마",
+    "source": "追い抜かれたゲマ"
+  },
+  {
+    "index": 168,
+    "offset_hex": "0xb32bc",
+    "file": "168_0xb32bc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이제 정해졌네요",
+    "source": "もう決まりですね"
+  },
+  {
+    "index": 169,
+    "offset_hex": "0xb34bc",
+    "file": "169_0xb34bc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "좋은 흐름입니다",
+    "source": "いい調子です"
+  },
+  {
+    "index": 170,
+    "offset_hex": "0xb3678",
+    "file": "170_0xb3678.png",
+    "width": 160,
+    "height": 16,
+    "translation": "근소한 차네요",
+    "source": "僅差ですね"
+  },
+  {
+    "index": 171,
+    "offset_hex": "0xb3828",
+    "file": "171_0xb3828.png",
+    "width": 160,
+    "height": 16,
+    "translation": "자, 추격입니다",
+    "source": "さぁ、追い上げです"
+  },
+  {
+    "index": 172,
+    "offset_hex": "0xb3a34",
+    "file": "172_0xb3a34.png",
+    "width": 160,
+    "height": 16,
+    "translation": "죄송합니다",
+    "source": "申し訳ありません"
+  },
+  {
+    "index": 173,
+    "offset_hex": "0xb3c1c",
+    "file": "173_0xb3c1c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "해냈습니다",
+    "source": "やりました"
+  },
+  {
+    "index": 174,
+    "offset_hex": "0xb3da0",
+    "file": "174_0xb3da0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "제쳤습니다",
+    "source": "抜きましたよ"
+  },
+  {
+    "index": 175,
+    "offset_hex": "0xb3f54",
+    "file": "175_0xb3f54.png",
+    "width": 160,
+    "height": 16,
+    "translation": "당했습니다",
+    "source": "やられました"
+  },
+  {
+    "index": 176,
+    "offset_hex": "0xb4114",
+    "file": "176_0xb4114.png",
+    "width": 160,
+    "height": 16,
+    "translation": "갑시다",
+    "source": "いきましょう"
+  },
+  {
+    "index": 177,
+    "offset_hex": "0xb42b4",
+    "file": "177_0xb42b4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "대성공입니다",
+    "source": "大成功です"
+  },
+  {
+    "index": 178,
+    "offset_hex": "0xb4468",
+    "file": "178_0xb4468.png",
+    "width": 160,
+    "height": 16,
+    "translation": "결과는 최상입니다",
+    "source": "結果は上々です"
+  },
+  {
+    "index": 179,
+    "offset_hex": "0xb463c",
+    "file": "179_0xb463c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아쉬운 결과입니다",
+    "source": "残念な結果です"
+  },
+  {
+    "index": 180,
+    "offset_hex": "0xb484c",
+    "file": "180_0xb484c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "죄송합니다",
+    "source": "申し訳ありません"
+  },
+  {
+    "index": 181,
+    "offset_hex": "0xb4a34",
+    "file": "181_0xb4a34.png",
+    "width": 160,
+    "height": 16,
+    "translation": "안 통합니다",
+    "source": "ききませんよ"
+  },
+  {
+    "index": 182,
+    "offset_hex": "0xb4be8",
+    "file": "182_0xb4be8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "맞아 주세요",
+    "source": "当たって下さい"
+  },
+  {
+    "index": 183,
+    "offset_hex": "0xb4db4",
+    "file": "183_0xb4db4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "한시름 놓았습니다",
+    "source": "一安心です"
+  },
+  {
+    "index": 184,
+    "offset_hex": "0xb4f48",
+    "file": "184_0xb4f48.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이제 괜찮습니다",
+    "source": "もう大丈夫"
+  },
+  {
+    "index": 185,
+    "offset_hex": "0xb50ec",
+    "file": "185_0xb50ec.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아무래도 좋지 않네요",
+    "source": "どうもまずいですね"
+  },
+  {
+    "index": 186,
+    "offset_hex": "0xb530c",
+    "file": "186_0xb530c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어째서!?",
+    "source": "何故!?"
+  },
+  {
+    "index": 187,
+    "offset_hex": "0xb5480",
+    "file": "187_0xb5480.png",
+    "width": 160,
+    "height": 16,
+    "translation": "못 해먹겠습니다",
+    "source": "やってられません"
+  },
+  {
+    "index": 188,
+    "offset_hex": "0xb566c",
+    "file": "188_0xb566c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰콜라 님",
+    "source": "ピョコラ様"
+  },
+  {
+    "index": 189,
+    "offset_hex": "0xb57e8",
+    "file": "189_0xb57e8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰콜라 님, 역시입니다",
+    "source": "ピョコラ様、さすがです"
+  },
+  {
+    "index": 190,
+    "offset_hex": "0xb5a14",
+    "file": "190_0xb5a14.png",
+    "width": 160,
+    "height": 16,
+    "translation": "힘든 싸움입니다",
+    "source": "つらい戦いです"
+  },
+  {
+    "index": 191,
+    "offset_hex": "0xb5bec",
+    "file": "191_0xb5bec.png",
+    "width": 160,
+    "height": 16,
+    "translation": "방심할 수 없습니다",
+    "source": "油断できません"
+  },
+  {
+    "index": 192,
+    "offset_hex": "0xb5de4",
+    "file": "192_0xb5de4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "지지 않습니다",
+    "source": "負けません"
+  },
+  {
+    "index": 193,
+    "offset_hex": "0xb5f6c",
+    "file": "193_0xb5f6c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "저에겐 무리입니다",
+    "source": "自分には無理です"
+  },
+  {
+    "index": 194,
+    "offset_hex": "0xb617c",
+    "file": "194_0xb617c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰콜라 니임",
+    "source": "ピョコラ様ぁ"
+  },
+  {
+    "index": 195,
+    "offset_hex": "0xb6314",
+    "file": "195_0xb6314.png",
+    "width": 160,
+    "height": 16,
+    "translation": "제쳐지고 말았습니다",
+    "source": "抜かれてしまいました"
+  },
+  {
+    "index": 196,
+    "offset_hex": "0xb6550",
+    "file": "196_0xb6550.png",
+    "width": 160,
+    "height": 16,
+    "translation": "제 탓입니다",
+    "source": "自分のせいです"
+  },
+  {
+    "index": 197,
+    "offset_hex": "0xb6720",
+    "file": "197_0xb6720.png",
+    "width": 160,
+    "height": 16,
+    "translation": "성공입니다",
+    "source": "成功です"
+  },
+  {
+    "index": 198,
+    "offset_hex": "0xb68b0",
+    "file": "198_0xb68b0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "실패입니다",
+    "source": "失敗です"
+  },
+  {
+    "index": 199,
+    "offset_hex": "0xb6a40",
+    "file": "199_0xb6a40.png",
+    "width": 160,
+    "height": 16,
+    "translation": "폭발…입니다",
+    "source": "暴発…です"
+  },
+  {
+    "index": 200,
+    "offset_hex": "0xb6be4",
+    "file": "200_0xb6be4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "안 통합니다",
+    "source": "効かないんです"
+  },
+  {
+    "index": 201,
+    "offset_hex": "0xb6dc8",
+    "file": "201_0xb6dc8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "부디…",
+    "source": "どうか…"
+  },
+  {
+    "index": 202,
+    "offset_hex": "0xb6f20",
+    "file": "202_0xb6f20.png",
+    "width": 160,
+    "height": 16,
+    "translation": "빗나가…?",
+    "source": "外れる…?"
+  },
+  {
+    "index": 203,
+    "offset_hex": "0xb70b4",
+    "file": "203_0xb70b4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아, 안 됩니다",
+    "source": "い、いけません"
+  },
+  {
+    "index": 204,
+    "offset_hex": "0xb7264",
+    "file": "204_0xb7264.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아무리 그래도",
+    "source": "いくらなんでも"
+  },
+  {
+    "index": 205,
+    "offset_hex": "0xb7434",
+    "file": "205_0xb7434.png",
+    "width": 160,
+    "height": 16,
+    "translation": "따라와 봐!",
+    "source": "追いついてみろ!"
+  },
+  {
+    "index": 206,
+    "offset_hex": "0xb7620",
+    "file": "206_0xb7620.png",
+    "width": 160,
+    "height": 16,
+    "translation": "좋은 느낌이야",
+    "source": "いい感じだぜ"
+  },
+  {
+    "index": 207,
+    "offset_hex": "0xb77dc",
+    "file": "207_0xb77dc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "위험했다",
+    "source": "あぶねえっ"
+  },
+  {
+    "index": 208,
+    "offset_hex": "0xb7978",
+    "file": "208_0xb7978.png",
+    "width": 160,
+    "height": 16,
+    "translation": "…윽",
+    "source": "…っ"
+  },
+  {
+    "index": 209,
+    "offset_hex": "0xb7a74",
+    "file": "209_0xb7a74.png",
+    "width": 160,
+    "height": 16,
+    "translation": "젠장",
+    "source": "ちくしょう"
+  },
+  {
+    "index": 210,
+    "offset_hex": "0xb7be0",
+    "file": "210_0xb7be0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "지지 않아",
+    "source": "負けねぇぞ"
+  },
+  {
+    "index": 211,
+    "offset_hex": "0xb7d7c",
+    "file": "211_0xb7d7c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아아…이제 무리야",
+    "source": "ああ…もう無理だぁ"
+  },
+  {
+    "index": 212,
+    "offset_hex": "0xb7f98",
+    "file": "212_0xb7f98.png",
+    "width": 160,
+    "height": 16,
+    "translation": "에~잇",
+    "source": "え～い"
+  },
+  {
+    "index": 213,
+    "offset_hex": "0xb80dc",
+    "file": "213_0xb80dc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "받아라",
+    "source": "そらよっ"
+  },
+  {
+    "index": 214,
+    "offset_hex": "0xb823c",
+    "file": "214_0xb823c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어떠냐",
+    "source": "どんなもんだ"
+  },
+  {
+    "index": 215,
+    "offset_hex": "0xb83e8",
+    "file": "215_0xb83e8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아, 젠장!",
+    "source": "あ、くそう!"
+  },
+  {
+    "index": 216,
+    "offset_hex": "0xb856c",
+    "file": "216_0xb856c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "당했다앗!",
+    "source": "やられたあっ!"
+  },
+  {
+    "index": 217,
+    "offset_hex": "0xb8730",
+    "file": "217_0xb8730.png",
+    "width": 160,
+    "height": 16,
+    "translation": "간다!",
+    "source": "いくぜ!"
+  },
+  {
+    "index": 218,
+    "offset_hex": "0xb888c",
+    "file": "218_0xb888c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "좋았어!",
+    "source": "よっしゃ!"
+  },
+  {
+    "index": 219,
+    "offset_hex": "0xb89f0",
+    "file": "219_0xb89f0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "오케이!",
+    "source": "オッケイ!"
+  },
+  {
+    "index": 220,
+    "offset_hex": "0xb8b50",
+    "file": "220_0xb8b50.png",
+    "width": 160,
+    "height": 16,
+    "translation": "칫",
+    "source": "ちぇっ"
+  },
+  {
+    "index": 221,
+    "offset_hex": "0xb8c84",
+    "file": "221_0xb8c84.png",
+    "width": 160,
+    "height": 16,
+    "translation": "포, 폭발이냐!?",
+    "source": "ほ、暴発かよ!?"
+  },
+  {
+    "index": 222,
+    "offset_hex": "0xb8e80",
+    "file": "222_0xb8e80.png",
+    "width": 160,
+    "height": 16,
+    "translation": "실드!",
+    "source": "シールドっ!"
+  },
+  {
+    "index": 223,
+    "offset_hex": "0xb8ffc",
+    "file": "223_0xb8ffc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "옷 오옷 오오옷!",
+    "source": "おっ おーっ おおっ!"
+  },
+  {
+    "index": 224,
+    "offset_hex": "0xb91b0",
+    "file": "224_0xb91b0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "거기다!",
+    "source": "そこだっ!"
+  },
+  {
+    "index": 225,
+    "offset_hex": "0xb931c",
+    "file": "225_0xb931c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "헤헤~엥",
+    "source": "へへ～んだ"
+  },
+  {
+    "index": 226,
+    "offset_hex": "0xb948c",
+    "file": "226_0xb948c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그것밖에 안 되냐",
+    "source": "そんなもんかよ"
+  },
+  {
+    "index": 227,
+    "offset_hex": "0xb966c",
+    "file": "227_0xb966c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "큰일이다",
+    "source": "やっべえ"
+  },
+  {
+    "index": 228,
+    "offset_hex": "0xb97d8",
+    "file": "228_0xb97d8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "거짓말이지!?",
+    "source": "うそだろ!?"
+  },
+  {
+    "index": 229,
+    "offset_hex": "0xb9970",
+    "file": "229_0xb9970.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이 자식",
+    "source": "てっめえ"
+  },
+  {
+    "index": 230,
+    "offset_hex": "0xb9ad8",
+    "file": "230_0xb9ad8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "삐요코",
+    "source": "ぴよこ"
+  },
+  {
+    "index": 231,
+    "offset_hex": "0xb9c20",
+    "file": "231_0xb9c20.png",
+    "width": 160,
+    "height": 16,
+    "translation": "압승이다뾰-!",
+    "source": "ボロ勝ちぴょー!"
+  },
+  {
+    "index": 232,
+    "offset_hex": "0xb9dfc",
+    "file": "232_0xb9dfc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "낙승이다뾰",
+    "source": "楽勝ぴょ"
+  },
+  {
+    "index": 233,
+    "offset_hex": "0xb9f8c",
+    "file": "233_0xb9f8c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "제법 하는뾰",
+    "source": "なかなかやるぴょ"
+  },
+  {
+    "index": 234,
+    "offset_hex": "0xba1a4",
+    "file": "234_0xba1a4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰옷뾰옷뾰옷!",
+    "source": "ぴょっぴょっぴょっ!"
+  },
+  {
+    "index": 235,
+    "offset_hex": "0xba2fc",
+    "file": "235_0xba2fc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "지지 않는뾰!",
+    "source": "負けないぴょ!"
+  },
+  {
+    "index": 236,
+    "offset_hex": "0xba4c8",
+    "file": "236_0xba4c8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아직 시작이다뾰!",
+    "source": "まだこれからぴょ!"
+  },
+  {
+    "index": 237,
+    "offset_hex": "0xba6d8",
+    "file": "237_0xba6d8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰~!",
+    "source": "ぴょ～!"
+  },
+  {
+    "index": 238,
+    "offset_hex": "0xba828",
+    "file": "238_0xba828.png",
+    "width": 160,
+    "height": 16,
+    "translation": "앞질렀다뾰!",
+    "source": "追い越したぴょ!"
+  },
+  {
+    "index": 239,
+    "offset_hex": "0xbaa24",
+    "file": "239_0xbaa24.png",
+    "width": 160,
+    "height": 16,
+    "translation": "삐요코의 승리다뾰",
+    "source": "ぴよこの勝ちぴょ"
+  },
+  {
+    "index": 240,
+    "offset_hex": "0xbac20",
+    "file": "240_0xbac20.png",
+    "width": 160,
+    "height": 16,
+    "translation": "가~앙뾰",
+    "source": "が～んぴょ"
+  },
+  {
+    "index": 241,
+    "offset_hex": "0xbada0",
+    "file": "241_0xbada0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뭔가 잘못됐다뾰",
+    "source": "なにかの間違いぴょ"
+  },
+  {
+    "index": 242,
+    "offset_hex": "0xbafc8",
+    "file": "242_0xbafc8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "간다뾰-",
+    "source": "いくぴょー"
+  },
+  {
+    "index": 243,
+    "offset_hex": "0xbb138",
+    "file": "243_0xbb138.png",
+    "width": 160,
+    "height": 16,
+    "translation": "좋은 흐름이다뾰",
+    "source": "いい調子ぴょ"
+  },
+  {
+    "index": 244,
+    "offset_hex": "0xbb2e8",
+    "file": "244_0xbb2e8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그럭저럭이다뾰",
+    "source": "まぁまぁぴょ"
+  },
+  {
+    "index": 245,
+    "offset_hex": "0xbb48c",
+    "file": "245_0xbb48c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "빗나갔다뾰-",
+    "source": "はずれたぴょー"
+  },
+  {
+    "index": 246,
+    "offset_hex": "0xbb650",
+    "file": "246_0xbb650.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그렇게는 안 된다뾰!",
+    "source": "そうはいかないぴょ!"
+  },
+  {
+    "index": 247,
+    "offset_hex": "0xbb874",
+    "file": "247_0xbb874.png",
+    "width": 160,
+    "height": 16,
+    "translation": "맞아라뾰!",
+    "source": "当たれぴょ!"
+  },
+  {
+    "index": 248,
+    "offset_hex": "0xbba20",
+    "file": "248_0xbba20.png",
+    "width": 160,
+    "height": 16,
+    "translation": "맞아라-!",
+    "source": "当たれー!"
+  },
+  {
+    "index": 249,
+    "offset_hex": "0xbbb9c",
+    "file": "249_0xbbb9c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰",
+    "source": "ぴょ"
+  },
+  {
+    "index": 250,
+    "offset_hex": "0xbbcb4",
+    "file": "250_0xbbcb4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰옷!",
+    "source": "ぴょっ!"
+  },
+  {
+    "index": 251,
+    "offset_hex": "0xbbdfc",
+    "file": "251_0xbbdfc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "삐요코가 최고다뾰",
+    "source": "ぴよこが一番ぴょ"
+  },
+  {
+    "index": 252,
+    "offset_hex": "0xbbff4",
+    "file": "252_0xbbff4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "시시하다뾰",
+    "source": "手ごたえないぴょ"
+  },
+  {
+    "index": 253,
+    "offset_hex": "0xbc1f4",
+    "file": "253_0xbc1f4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이, 이런뾰",
+    "source": "ま、まずいぴょ"
+  },
+  {
+    "index": 254,
+    "offset_hex": "0xbc3a4",
+    "file": "254_0xbc3a4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "아차뾰",
+    "source": "しまったぴょ"
+  },
+  {
+    "index": 255,
+    "offset_hex": "0xbc534",
+    "file": "255_0xbc534.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어째서 이렇게 되는뾰!",
+    "source": "どーしてこーなるぴょ!"
+  },
+  {
+    "index": 256,
+    "offset_hex": "0xbc734",
+    "file": "256_0xbc734.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰옷",
+    "source": "ぴょっ"
+  },
+  {
+    "index": 257,
+    "offset_hex": "0xbc868",
+    "file": "257_0xbc868.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그럭저럭인뾰",
+    "source": "まぁまぁっぴょ"
+  },
+  {
+    "index": 258,
+    "offset_hex": "0xbca20",
+    "file": "258_0xbca20.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰?",
+    "source": "ぴょ?"
+  },
+  {
+    "index": 259,
+    "offset_hex": "0xbcb58",
+    "file": "259_0xbcb58.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이건 아니다뾰",
+    "source": "これはないっぴょ"
+  },
+  {
+    "index": 260,
+    "offset_hex": "0xbcd40",
+    "file": "260_0xbcd40.png",
+    "width": 160,
+    "height": 16,
+    "translation": "입에서 바주카!!",
+    "source": "口からバズーカ!!"
+  },
+  {
+    "index": 261,
+    "offset_hex": "0xbcf24",
+    "file": "261_0xbcf24.png",
+    "width": 160,
+    "height": 16,
+    "translation": "가라가라뉴",
+    "source": "いけいけにゅ"
+  },
+  {
+    "index": 262,
+    "offset_hex": "0xbd0d8",
+    "file": "262_0xbd0d8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뉴웃뉴웃뉴웃",
+    "source": "にゅっにゅっにゅっ"
+  },
+  {
+    "index": 263,
+    "offset_hex": "0xbd2b0",
+    "file": "263_0xbd2b0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "～♪～",
+    "source": "～♪～"
+  },
+  {
+    "index": 264,
+    "offset_hex": "0xbd3d8",
+    "file": "264_0xbd3d8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뉴~~웃",
+    "source": "にゅ～～っ"
+  },
+  {
+    "index": 265,
+    "offset_hex": "0xbd528",
+    "file": "265_0xbd528.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뉴-웃",
+    "source": "にゅーっ"
+  },
+  {
+    "index": 266,
+    "offset_hex": "0xbd670",
+    "file": "266_0xbd670.png",
+    "width": 160,
+    "height": 16,
+    "translation": "괴롭힌다뉴",
+    "source": "いじめにゅ"
+  },
+  {
+    "index": 267,
+    "offset_hex": "0xbd7f4",
+    "file": "267_0xbd7f4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뿌잉뉴우우…",
+    "source": "ぷいにゅうう…"
+  },
+  {
+    "index": 268,
+    "offset_hex": "0xbd99c",
+    "file": "268_0xbd99c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이런 일도 있다뉴",
+    "source": "こんなこともあるにゅ"
+  },
+  {
+    "index": 269,
+    "offset_hex": "0xbdbb4",
+    "file": "269_0xbdbb4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "눈에서 비~임뉴",
+    "source": "目からび～むにゅ"
+  },
+  {
+    "index": 270,
+    "offset_hex": "0xbdd9c",
+    "file": "270_0xbdd9c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "너 좀 하는뉴",
+    "source": "おまえやるにゅ"
+  },
+  {
+    "index": 271,
+    "offset_hex": "0xbdf6c",
+    "file": "271_0xbdf6c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "제행무상이다뉴",
+    "source": "諸行無常にゅ"
+  },
+  {
+    "index": 272,
+    "offset_hex": "0xbe13c",
+    "file": "272_0xbe13c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "가라뉴",
+    "source": "いけにゅ"
+  },
+  {
+    "index": 273,
+    "offset_hex": "0xbe2a4",
+    "file": "273_0xbe2a4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "해냈다뉴",
+    "source": "やったにゅ"
+  },
+  {
+    "index": 274,
+    "offset_hex": "0xbe430",
+    "file": "274_0xbe430.png",
+    "width": 160,
+    "height": 16,
+    "translation": "최악이다뉴",
+    "source": "サイアクにゅ"
+  },
+  {
+    "index": 275,
+    "offset_hex": "0xbe5dc",
+    "file": "275_0xbe5dc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "폭발이다뉴…",
+    "source": "暴発にゅ…"
+  },
+  {
+    "index": 276,
+    "offset_hex": "0xbe774",
+    "file": "276_0xbe774.png",
+    "width": 160,
+    "height": 16,
+    "translation": "안 통한다뉴",
+    "source": "きかないにゅ"
+  },
+  {
+    "index": 277,
+    "offset_hex": "0xbe92c",
+    "file": "277_0xbe92c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뉴뉴뉴뉴",
+    "source": "にゅにゅにゅにゅ"
+  },
+  {
+    "index": 278,
+    "offset_hex": "0xbeaf8",
+    "file": "278_0xbeaf8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "분명 맞는다뉴",
+    "source": "きっとあたるにゅ"
+  },
+  {
+    "index": 279,
+    "offset_hex": "0xbecd8",
+    "file": "279_0xbecd8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이 정도다뉴",
+    "source": "こんなもんにゅ"
+  },
+  {
+    "index": 280,
+    "offset_hex": "0xbee90",
+    "file": "280_0xbee90.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이건 위험하다뉴…",
+    "source": "これはまずいにゅ…"
+  },
+  {
+    "index": 281,
+    "offset_hex": "0xbf08c",
+    "file": "281_0xbf08c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뿌잉뉴",
+    "source": "ぷいにゅ"
+  },
+  {
+    "index": 282,
+    "offset_hex": "0xbf200",
+    "file": "282_0xbf200.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뉴!",
+    "source": "にゅ!"
+  },
+  {
+    "index": 283,
+    "offset_hex": "0xbf334",
+    "file": "283_0xbf334.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뉴뉴~♪",
+    "source": "にゅにゅ～♪"
+  },
+  {
+    "index": 284,
+    "offset_hex": "0xbf4c8",
+    "file": "284_0xbf4c8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "그럭저럭이다뉴",
+    "source": "まぁまぁにゅ"
+  },
+  {
+    "index": 285,
+    "offset_hex": "0xbf670",
+    "file": "285_0xbf670.png",
+    "width": 160,
+    "height": 16,
+    "translation": "다음은 없다고 생각하라뉴",
+    "source": "次はないと思えにゅ"
+  },
+  {
+    "index": 286,
+    "offset_hex": "0xbf898",
+    "file": "286_0xbf898.png",
+    "width": 160,
+    "height": 16,
+    "translation": "너 싫다뉴",
+    "source": "お前嫌いにゅ"
+  },
+  {
+    "index": 287,
+    "offset_hex": "0xbfa60",
+    "file": "287_0xbfa60.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뉴우",
+    "source": "にゅぅ"
+  },
+  {
+    "index": 288,
+    "offset_hex": "0xbfb94",
+    "file": "288_0xbfb94.png",
+    "width": 160,
+    "height": 16,
+    "translation": "후후후, 대승리",
+    "source": "ふっふっふっ、大勝利"
+  },
+  {
+    "index": 289,
+    "offset_hex": "0xbfdc4",
+    "file": "289_0xbfdc4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "자, 간다!",
+    "source": "さあ、いくぞ!"
+  },
+  {
+    "index": 290,
+    "offset_hex": "0xbff70",
+    "file": "290_0xbff70.png",
+    "width": 160,
+    "height": 16,
+    "translation": "제법 하는군",
+    "source": "なかなかやるな"
+  },
+  {
+    "index": 291,
+    "offset_hex": "0xc0170",
+    "file": "291_0xc0170.png",
+    "width": 160,
+    "height": 16,
+    "translation": "앞으로, 조금만",
+    "source": "あと、もう少し"
+  },
+  {
+    "index": 292,
+    "offset_hex": "0xc032c",
+    "file": "292_0xc032c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이럴 리가",
+    "source": "こんなはずでは"
+  },
+  {
+    "index": 293,
+    "offset_hex": "0xc04f8",
+    "file": "293_0xc04f8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뭐, 뭔가 잘못됐다!",
+    "source": "な、何かの間違いだ!"
+  },
+  {
+    "index": 294,
+    "offset_hex": "0xc073c",
+    "file": "294_0xc073c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "악이니까 말이지!",
+    "source": "悪ですからなぁ!"
+  },
+  {
+    "index": 295,
+    "offset_hex": "0xc0934",
+    "file": "295_0xc0934.png",
+    "width": 160,
+    "height": 16,
+    "translation": "봤느냐!",
+    "source": "見たか!"
+  },
+  {
+    "index": 296,
+    "offset_hex": "0xc0aac",
+    "file": "296_0xc0aac.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이놈!",
+    "source": "おのれ!"
+  },
+  {
+    "index": 297,
+    "offset_hex": "0xc0c1c",
+    "file": "297_0xc0c1c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이깟 일로…",
+    "source": "これしきのことで…"
+  },
+  {
+    "index": 298,
+    "offset_hex": "0xc0e00",
+    "file": "298_0xc0e00.png",
+    "width": 160,
+    "height": 16,
+    "translation": "간다!",
+    "source": "いくぞ!"
+  },
+  {
+    "index": 299,
+    "offset_hex": "0xc0f5c",
+    "file": "299_0xc0f5c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "계산대로!",
+    "source": "計算通り!"
+  },
+  {
+    "index": 300,
+    "offset_hex": "0xc10f8",
+    "file": "300_0xc10f8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어떠냐!",
+    "source": "どうだ!"
+  },
+  {
+    "index": 301,
+    "offset_hex": "0xc1250",
+    "file": "301_0xc1250.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이럴 리가…",
+    "source": "こんなはずでは…"
+  },
+  {
+    "index": 302,
+    "offset_hex": "0xc1428",
+    "file": "302_0xc1428.png",
+    "width": 160,
+    "height": 16,
+    "translation": "포, 폭발이라고",
+    "source": "ほ、暴発だと"
+  },
+  {
+    "index": 303,
+    "offset_hex": "0xc15f0",
+    "file": "303_0xc15f0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "미숙하군요",
+    "source": "未熟ですよ"
+  },
+  {
+    "index": 304,
+    "offset_hex": "0xc1798",
+    "file": "304_0xc1798.png",
+    "width": 160,
+    "height": 16,
+    "translation": "거기입니다!",
+    "source": "そこです!"
+  },
+  {
+    "index": 305,
+    "offset_hex": "0xc190c",
+    "file": "305_0xc190c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "으음",
+    "source": "うむ"
+  },
+  {
+    "index": 306,
+    "offset_hex": "0xc1a30",
+    "file": "306_0xc1a30.png",
+    "width": 160,
+    "height": 16,
+    "translation": "안 돼, 대단히 안 돼",
+    "source": "いかん、非常にいかん"
+  },
+  {
+    "index": 307,
+    "offset_hex": "0xc1c58",
+    "file": "307_0xc1c58.png",
+    "width": 160,
+    "height": 16,
+    "translation": "말도 안 돼!",
+    "source": "バカな!"
+  },
+  {
+    "index": 308,
+    "offset_hex": "0xc1dc8",
+    "file": "308_0xc1dc8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이놈!",
+    "source": "おのれ!"
+  },
+  {
+    "index": 309,
+    "offset_hex": "0xc1f38",
+    "file": "309_0xc1f38.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뾰콜라 님",
+    "source": "ピョコラ様"
+  },
+  {
+    "index": 310,
+    "offset_hex": "0xc20b4",
+    "file": "310_0xc20b4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "죄송합니다",
+    "source": "申し訳ありません"
+  },
+  {
+    "index": 311,
+    "offset_hex": "0xc229c",
+    "file": "311_0xc229c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이대로 갑니다",
+    "source": "このままいきます"
+  },
+  {
+    "index": 312,
+    "offset_hex": "0xc2488",
+    "file": "312_0xc2488.png",
+    "width": 160,
+    "height": 16,
+    "translation": "질 수 없습니다",
+    "source": "負けられません"
+  },
+  {
+    "index": 313,
+    "offset_hex": "0xc2664",
+    "file": "313_0xc2664.png",
+    "width": 160,
+    "height": 16,
+    "translation": "제법이군요",
+    "source": "やりますね"
+  },
+  {
+    "index": 314,
+    "offset_hex": "0xc27f8",
+    "file": "314_0xc27f8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이럴 수가…!",
+    "source": "なんと…!"
+  },
+  {
+    "index": 315,
+    "offset_hex": "0xc2968",
+    "file": "315_0xc2968.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이기겠습니다",
+    "source": "勝たせてもらいます"
+  },
+  {
+    "index": 316,
+    "offset_hex": "0xc2b8c",
+    "file": "316_0xc2b8c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "훌륭합니다",
+    "source": "お見事です"
+  },
+  {
+    "index": 317,
+    "offset_hex": "0xc2d30",
+    "file": "317_0xc2d30.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이대로는…",
+    "source": "このままでは…"
+  },
+  {
+    "index": 318,
+    "offset_hex": "0xc2eec",
+    "file": "318_0xc2eec.png",
+    "width": 160,
+    "height": 16,
+    "translation": "실례!",
+    "source": "御免!"
+  },
+  {
+    "index": 319,
+    "offset_hex": "0xc3048",
+    "file": "319_0xc3048.png",
+    "width": 160,
+    "height": 16,
+    "translation": "황공하오나…",
+    "source": "おそれながら…"
+  },
+  {
+    "index": 320,
+    "offset_hex": "0xc3220",
+    "file": "320_0xc3220.png",
+    "width": 160,
+    "height": 16,
+    "translation": "부디…",
+    "source": "どうか…"
+  },
+  {
+    "index": 321,
+    "offset_hex": "0xc3378",
+    "file": "321_0xc3378.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이겼군요",
+    "source": "勝ちましたな"
+  },
+  {
+    "index": 322,
+    "offset_hex": "0xc3540",
+    "file": "322_0xc3540.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어찌할 도리가 없군",
+    "source": "いかんともしがたい"
+  },
+  {
+    "index": 323,
+    "offset_hex": "0xc374c",
+    "file": "323_0xc374c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "이럴 리가…",
+    "source": "こんなはずは…"
+  },
+  {
+    "index": 324,
+    "offset_hex": "0xc3910",
+    "file": "324_0xc3910.png",
+    "width": 160,
+    "height": 16,
+    "translation": "오~홋호호!",
+    "source": "おーっほほほ!"
+  },
+  {
+    "index": 325,
+    "offset_hex": "0xc3ac8",
+    "file": "325_0xc3ac8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "척척 간다",
+    "source": "さくさくいくわよ"
+  },
+  {
+    "index": 326,
+    "offset_hex": "0xc3ca4",
+    "file": "326_0xc3ca4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "방심은 금물이네",
+    "source": "油断禁物ね"
+  },
+  {
+    "index": 327,
+    "offset_hex": "0xc3e84",
+    "file": "327_0xc3e84.png",
+    "width": 160,
+    "height": 16,
+    "translation": "자, 조금만 더",
+    "source": "さぁ、あと一息"
+  },
+  {
+    "index": 328,
+    "offset_hex": "0xc4040",
+    "file": "328_0xc4040.png",
+    "width": 160,
+    "height": 16,
+    "translation": "두고 보라지",
+    "source": "今に見てらっしゃい"
+  },
+  {
+    "index": 329,
+    "offset_hex": "0xc423c",
+    "file": "329_0xc423c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "내 탓이 아니야",
+    "source": "私のせいじゃないわよ"
+  },
+  {
+    "index": 330,
+    "offset_hex": "0xc447c",
+    "file": "330_0xc447c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "하우~",
+    "source": "はう～"
+  },
+  {
+    "index": 331,
+    "offset_hex": "0xc45b4",
+    "file": "331_0xc45b4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "해냈다",
+    "source": "やったあ"
+  },
+  {
+    "index": 332,
+    "offset_hex": "0xc4728",
+    "file": "332_0xc4728.png",
+    "width": 160,
+    "height": 16,
+    "translation": "뭐 이 정도지",
+    "source": "まあこんなものよ"
+  },
+  {
+    "index": 333,
+    "offset_hex": "0xc4918",
+    "file": "333_0xc4918.png",
+    "width": 160,
+    "height": 16,
+    "translation": "금방 되찾겠어",
+    "source": "すぐとり返すわ"
+  },
+  {
+    "index": 334,
+    "offset_hex": "0xc4af0",
+    "file": "334_0xc4af0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "지지 않아",
+    "source": "負けないわよ"
+  },
+  {
+    "index": 335,
+    "offset_hex": "0xc4cac",
+    "file": "335_0xc4cac.png",
+    "width": 160,
+    "height": 16,
+    "translation": "하나 어떠신가요?",
+    "source": "おひとついかが?"
+  },
+  {
+    "index": 336,
+    "offset_hex": "0xc4e9c",
+    "file": "336_0xc4e9c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "완벽",
+    "source": "かんぺき"
+  },
+  {
+    "index": 337,
+    "offset_hex": "0xc501c",
+    "file": "337_0xc501c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "예정대로네",
+    "source": "予定通りね"
+  },
+  {
+    "index": 338,
+    "offset_hex": "0xc51e0",
+    "file": "338_0xc51e0.png",
+    "width": 160,
+    "height": 16,
+    "translation": "으~음, 아쉬워",
+    "source": "う～ん、残念"
+  },
+  {
+    "index": 339,
+    "offset_hex": "0xc5388",
+    "file": "339_0xc5388.png",
+    "width": 160,
+    "height": 16,
+    "translation": "폭발이라고요!?",
+    "source": "暴発ですって!?"
+  },
+  {
+    "index": 340,
+    "offset_hex": "0xc5578",
+    "file": "340_0xc5578.png",
+    "width": 160,
+    "height": 16,
+    "translation": "어머, 방금 그건 뭐지?",
+    "source": "あら、今のなにかしら?"
+  },
+  {
+    "index": 341,
+    "offset_hex": "0xc57b4",
+    "file": "341_0xc57b4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "맞-아-라-",
+    "source": "あーたーれー"
+  },
+  {
+    "index": 342,
+    "offset_hex": "0xc5944",
+    "file": "342_0xc5944.png",
+    "width": 160,
+    "height": 16,
+    "translation": "잠깐 기다려",
+    "source": "ちょっと待って"
+  },
+  {
+    "index": 343,
+    "offset_hex": "0xc5afc",
+    "file": "343_0xc5afc.png",
+    "width": 160,
+    "height": 16,
+    "translation": "에-엣!?",
+    "source": "えーっ!?"
+  },
+  {
+    "index": 344,
+    "offset_hex": "0xc5c54",
+    "file": "344_0xc5c54.png",
+    "width": 160,
+    "height": 16,
+    "translation": "에!?잠깐만요!",
+    "source": "え!?ちょっとぉ!"
+  },
+  {
+    "index": 345,
+    "offset_hex": "0xc5e2c",
+    "file": "345_0xc5e2c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "테로~옹♪",
+    "source": "てろ～ん♪"
+  },
+  {
+    "index": 346,
+    "offset_hex": "0xc5fa4",
+    "file": "346_0xc5fa4.png",
+    "width": 160,
+    "height": 16,
+    "translation": "우후훗♡",
+    "source": "うふふっ♡"
+  },
+  {
+    "index": 347,
+    "offset_hex": "0xc611c",
+    "file": "347_0xc611c.png",
+    "width": 160,
+    "height": 16,
+    "translation": "저기 말이야!",
+    "source": "あのねぇ!"
+  },
+  {
+    "index": 348,
+    "offset_hex": "0xc62a8",
+    "file": "348_0xc62a8.png",
+    "width": 160,
+    "height": 16,
+    "translation": "부아아앗!!",
+    "source": "ムキーッ!!"
+  },
+  {
+    "index": 349,
+    "offset_hex": "0xc6424",
+    "file": "349_0xc6424.png",
+    "width": 160,
+    "height": 16,
+    "translation": "흐~응",
+    "source": "ふ～ん"
+  }
+]

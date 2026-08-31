@@ -1,15 +1,93 @@
-/%TEMP%
-/.emucap
-/.translation_audit
-/.webjjongku-trash
-/analysis
-/assets
-/build
-/cache
-/evidence
+# Public repository policy:
+#   INCLUDE source code, extracted text/metadata, translation data, docs.
+#   EXCLUDE actual game binaries/assets, images, fonts, saves, patches, builds.
+
+# Local/runtime workspaces
+/%TEMP%/
+/.emucap/
+/.translation_audit/
+/.webjjongku-trash/
+/analysis/
+/build/
+/cache/
+/evidence/
+/ref/
+/source/
+/release/
 /nul
-/ref
-/source
+
+# Actual game binaries / generated binary outputs
+*.gba
+*.agb
+*.rom
+*.bin
+*.dat
+*.sav
+*.srm
+*.ss?
+*.state
+*.state[0-9]*
+*.ips
+*.bps
+*.xdelta*
+*.iso
+*.cue
+*.gdi
+*.chd
+
+# Images / graphics / design sources are intentionally not published.
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tga
+*.psd
+*.xcf
+*.svg
+
+# Fonts are third-party/game assets and are not bundled.
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Archives / temporary files
+*.zip
+*.7z
+*.rar
+*.tmp
+*.bak
+*.orig
+
+# Python/editor cruft
+**/__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Historical local status snapshots
 /STATUS_old_passes.md
 /STATUS_pre_translation.md
-/tools
+
+# Under assets, publish text/extracted metadata only. This deliberately keeps
+# messages.json, raw UI extraction JSON, manifests, offsets/specs and notes,
+# while every image/binary/font remains excluded by the rules above.
+/assets/**
+!/assets/**/
+!/assets/**/*.json
+!/assets/**/*.md
+!/assets/**/*.tsv
+!/assets/**/*.txt
+!/assets/**/*.csv
+!/assets/**/LICENSE*
+!/assets/**/COPYING*
+!/assets/**/OFL*
+
+# Source tools and their documentation are public.
+!/tools/
+!/tools/**/*.py
+!/tools/**/*.md

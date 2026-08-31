@@ -1,0 +1,1180 @@
+{
+  "font": "Galmuri7Bitmap size 10; cost strip uses the built-in 3x5 face",
+  "raw_table": {
+    "start_hex": "0xE6D04C",
+    "end_hex": "0xE72B00",
+    "stride_hex": "0x204",
+    "expected_count": 46,
+    "note": "32x32 raw card table. Archive every slot regardless of whether its Japanese label has been identified/translated."
+  },
+  "cards": [
+    {
+      "offset_hex": "0xE6D04C",
+      "banners": [
+        {
+          "rect": [4, 2, 28, 9],
+          "text": "업무"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [5, 23, 28, 29],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [3, 10, 29, 23],
+          "text": "호객"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6D454",
+      "banners": [
+        {
+          "rect": [4, 2, 28, 9],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [5, 23, 28, 29],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [3, 10, 29, 23],
+          "text": "이벤트"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6D658",
+      "banners": [
+        {
+          "rect": [4, 2, 28, 9],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [5, 23, 28, 29],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [3, 10, 29, 23],
+          "text": "손패\n체인지"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6D85C",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "흉내"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6DA60",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST2"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "100만엔"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6DC64",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "교체"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6DE68",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "대세일"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6E06C",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "폭주"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6E270",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "뒤섞기"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6E474",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "코스트"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6E678",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST0"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "논터보"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6E87C",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "점장\n카드"
+        }
+      ],
+      "source_overlays": [
+        {
+          "rect": [3, 9, 29, 23],
+          "palette_indices": [4],
+          "note": "layer 1: restore the original red X above the Korean 점장카드 label"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6EA80",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "간식"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6EC84",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST2"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "정화"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6EE88",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            0,
+            10,
+            32,
+            23
+          ],
+          "text": "리트라이"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6F08C",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST2"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "노카\n운트"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6F290",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST2"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "조종"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6F494",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "슬로\n룰렛"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6F698",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST0"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "땡땡이"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6F89C",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST2"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "흡수"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6FAA0",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST2"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "광고"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6FCA4",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "점장"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "도우미"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE700AC",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "터보"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE702B0",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "터보"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE704B4",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "터보"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE706B8",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "터보"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE708BC",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "터보"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE70AC0",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "터보"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE70CC4",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "터보"
+        }
+      ],
+      "tiny": [
+        {
+          "rect": [
+            5,
+            23,
+            28,
+            29
+          ],
+          "text": "COST1"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE70EC8",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "업무"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "정돈"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE714D4",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "업무"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "호객"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE71EE8",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "업무"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            12,
+            29,
+            28
+          ],
+          "text": "가짜\n회원"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE720EC",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "업무"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            12,
+            29,
+            28
+          ],
+          "text": "가짜\n판매"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE722F0",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "업무"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "회원"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE72B00",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "업무"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "판매"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE728FC",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "업무"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "흉내"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE71AE0",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "방해"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            10,
+            29,
+            23
+          ],
+          "text": "카드"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE71CE4",
+      "banners": [
+        {
+          "rect": [
+            4,
+            2,
+            28,
+            9
+          ],
+          "text": "방해"
+        }
+      ],
+      "ribbons": [
+        {
+          "rect": [
+            3,
+            12,
+            29,
+            28
+          ],
+          "text": "가짜\n호객"
+        }
+      ]
+    },
+    {
+      "offset_hex": "0xE6FEA8",
+      "outlined": [
+        {
+          "rect": [
+            0,
+            11,
+            32,
+            21
+          ],
+          "text": "버림패"
+        }
+      ]
+    }
+  ]
+}

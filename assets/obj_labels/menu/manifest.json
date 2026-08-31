@@ -1,0 +1,327 @@
+{
+  "anchor": "0xF8CB18",
+  "stride": 1028,
+  "palette_bank": 15,
+  "entries": [
+    {
+      "file": "objlabel_F8CF1C_64x32.png",
+      "offset_hex": "0xF8CF1C",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8D320_64x32.png",
+      "offset_hex": "0xF8D320",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8D724_64x32.png",
+      "offset_hex": "0xF8D724",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8DB28_64x32.png",
+      "offset_hex": "0xF8DB28",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8DF2C_64x32.png",
+      "offset_hex": "0xF8DF2C",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8E330_64x32.png",
+      "offset_hex": "0xF8E330",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8E734_64x32.png",
+      "offset_hex": "0xF8E734",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8EB38_64x32.png",
+      "offset_hex": "0xF8EB38",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8EF3C_64x32.png",
+      "offset_hex": "0xF8EF3C",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8F340_64x32.png",
+      "offset_hex": "0xF8F340",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8F744_64x32.png",
+      "offset_hex": "0xF8F744",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8FB48_64x32.png",
+      "offset_hex": "0xF8FB48",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F8FF4C_64x32.png",
+      "offset_hex": "0xF8FF4C",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F90350_64x32.png",
+      "offset_hex": "0xF90350",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F90754_64x32.png",
+      "offset_hex": "0xF90754",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F90B58_64x32.png",
+      "offset_hex": "0xF90B58",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F90F5C_64x32.png",
+      "offset_hex": "0xF90F5C",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F91360_64x32.png",
+      "offset_hex": "0xF91360",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F91764_64x32.png",
+      "offset_hex": "0xF91764",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F91B68_64x32.png",
+      "offset_hex": "0xF91B68",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F91F6C_64x32.png",
+      "offset_hex": "0xF91F6C",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F92370_64x32.png",
+      "offset_hex": "0xF92370",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F92774_64x32.png",
+      "offset_hex": "0xF92774",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F92B78_64x32.png",
+      "offset_hex": "0xF92B78",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F92F7C_64x32.png",
+      "offset_hex": "0xF92F7C",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F93380_64x32.png",
+      "offset_hex": "0xF93380",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F93784_64x32.png",
+      "offset_hex": "0xF93784",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F93B88_64x32.png",
+      "offset_hex": "0xF93B88",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F93F8C_64x32.png",
+      "offset_hex": "0xF93F8C",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F94390_64x32.png",
+      "offset_hex": "0xF94390",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F94794_64x32.png",
+      "offset_hex": "0xF94794",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F94B98_64x32.png",
+      "offset_hex": "0xF94B98",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F94F9C_64x32.png",
+      "offset_hex": "0xF94F9C",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F953A0_64x32.png",
+      "offset_hex": "0xF953A0",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F957A4_64x32.png",
+      "offset_hex": "0xF957A4",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F95BA8_64x32.png",
+      "offset_hex": "0xF95BA8",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F95FAC_64x32.png",
+      "offset_hex": "0xF95FAC",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F963B0_64x32.png",
+      "offset_hex": "0xF963B0",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F967B4_64x32.png",
+      "offset_hex": "0xF967B4",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    },
+    {
+      "file": "objlabel_F96BB8_64x32.png",
+      "offset_hex": "0xF96BB8",
+      "width": 64,
+      "height": 32,
+      "bytes": 1024,
+      "stride": 1028
+    }
+  ]
+}

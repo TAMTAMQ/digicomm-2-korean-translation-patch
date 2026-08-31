@@ -1,0 +1,227 @@
+{
+  "note": "128x32 label = two 64x32 raw OBJ sprites 0x404 apart",
+  "labels": [
+    {
+      "left_hex": "0xF8CB18",
+      "right_hex": "0xF8CF1C",
+      "text": "앨범"
+    },
+    {
+      "left_hex": "0xF8D320",
+      "right_hex": "0xF8D724",
+      "background_template_left_hex": "0xF8CB18",
+      "text": "처음부터 놀기"
+    },
+    {
+      "left_hex": "0xF8DB28",
+      "right_hex": "0xF8DF2C",
+      "text": "카드와 가게"
+    },
+    {
+      "left_hex": "0xF8E330",
+      "right_hex": "0xF8E734",
+      "text": "컬렉션"
+    },
+    {
+      "left_hex": "0xF8EB38",
+      "right_hex": "0xF8EF3C",
+      "background_template_left_hex": "0xF8CB18",
+      "text": "친구와 놀기"
+    },
+    {
+      "left_hex": "0xF8F340",
+      "right_hex": "0xF8F744",
+      "background_template_left_hex": "0xF8CB18",
+      "text": "이어서 놀기"
+    },
+    {
+      "left_hex": "0xF8FB48",
+      "right_hex": "0xF8FF4C",
+      "text": "디버그"
+    },
+    {
+      "left_hex": "0xF90350",
+      "right_hex": "0xF90754",
+      "background_template_left_hex": "0xF8CB18",
+      "text": "대전 덱 만들기"
+    },
+    {
+      "left_hex": "0xF90B58",
+      "right_hex": "0xF90F5C",
+      "text": "컬렉션"
+    },
+    {
+      "left_hex": "0xF91360",
+      "right_hex": "0xF91764",
+      "background_template_left_hex": "0xF8CB18",
+      "text": "게임으로 놀기"
+    },
+    {
+      "left_hex": "0xF91B68",
+      "right_hex": "0xF91F6C",
+      "text": "명함"
+    },
+    {
+      "left_hex": "0xF92370",
+      "right_hex": "0xF92774",
+      "background_template_left_hex": "0xF8CB18",
+      "text": "명함 교환"
+    },
+    {
+      "left_hex": "0xF92B78",
+      "right_hex": "0xF92F7C",
+      "background_template_left_hex": "0xF8CB18",
+      "text": "명함 교환"
+    },
+    {
+      "left_hex": "0xF93380",
+      "right_hex": "0xF93784",
+      "background_template_left_hex": "0xF94390",
+      "text": "전파로 명함교환"
+    },
+    {
+      "left_hex": "0xF93B88",
+      "right_hex": "0xF93F8C",
+      "text": "명함 보기"
+    },
+    {
+      "left_hex": "0xF94390",
+      "right_hex": "0xF94794",
+      "text": "추억"
+    },
+    {
+      "left_hex": "0xF94B98",
+      "right_hex": "0xF94F9C",
+      "background_template_left_hex": "0xF94390",
+      "text": "스테이지 선택"
+    },
+    {
+      "left_hex": "0xF95BA8",
+      "right_hex": "0xF95FAC",
+      "background_template_left_hex": "0xF94390",
+      "text": "점장 랭킹"
+    },
+    {
+      "left_hex": "0xF963B0",
+      "right_hex": "0xF967B4",
+      "text": "가게 보기"
+    },
+    {
+      "left_hex": "0xF96BB8",
+      "right_hex": "0xF96FBC",
+      "source": "おんがく",
+      "text": "음악"
+    },
+    {
+      "left_hex": "0xF973C0",
+      "right_hex": "0xF977C4",
+      "source": "ミニゲーム",
+      "text": "미니게임"
+    },
+    {
+      "left_hex": "0xF97BC8",
+      "right_hex": "0xF97FCC",
+      "source": "保存したデータを見る",
+      "text": "저장 데이터 보기",
+      "background_template_left_hex": "0xF94390"
+    },
+    {
+      "left_hex": "0xF983D0",
+      "right_hex": "0xF987D4",
+      "source": "食べてもまずいにょ",
+      "text": "먹어도 맛없다뇨",
+      "background_template_left_hex": "0xF8CB18"
+    },
+    {
+      "left_hex": "0xF98BD8",
+      "right_hex": "0xF98FDC",
+      "source": "データを交換する",
+      "text": "데이터 교환",
+      "background_template_left_hex": "0xF94390"
+    },
+    {
+      "left_hex": "0xF993E0",
+      "right_hex": "0xF997E4",
+      "source": "ふくわらい",
+      "text": "후쿠와라이"
+    },
+    {
+      "left_hex": "0xF99BE8",
+      "right_hex": "0xF99FEC",
+      "source": "せつめいをよむ",
+      "text": "설명 읽기",
+      "background_template_left_hex": "0xF94390"
+    },
+    {
+      "left_hex": "0xF9A3F0",
+      "right_hex": "0xF9A7F4",
+      "source": "せつめいをよむ",
+      "text": "설명 읽기",
+      "background_template_left_hex": "0xF8CB18"
+    },
+    {
+      "left_hex": "0xF9ABF8",
+      "right_hex": "0xF9AFFC",
+      "source": "パーティゲーム",
+      "text": "파티게임",
+      "background_template_left_hex": "0xF8CB18"
+    },
+    {
+      "left_hex": "0xF9B400",
+      "right_hex": "0xF9B804",
+      "source": "ぷちゲーム",
+      "text": "푸치게임"
+    },
+    {
+      "left_hex": "0xF9BC08",
+      "right_hex": "0xF9C00C",
+      "source": "ぴよこ",
+      "text": "삐요코"
+    },
+    {
+      "left_hex": "0xF9C410",
+      "right_hex": "0xF9C814",
+      "source": "さくら＆ケムシにゅ",
+      "text": "사쿠라＆케무시뉴",
+      "background_template_left_hex": "0xF94390"
+    },
+    {
+      "left_hex": "0xF9CC18",
+      "right_hex": "0xF9D01C",
+      "source": "ランキング",
+      "text": "랭킹"
+    },
+    {
+      "left_hex": "0xF9D420",
+      "right_hex": "0xF9D824",
+      "source": "神経衰弱",
+      "text": "신경쇠약"
+    },
+    {
+      "left_hex": "0xF9DC28",
+      "right_hex": "0xF9E02C",
+      "source": "ゲームをはじめる",
+      "text": "게임 시작",
+      "background_template_left_hex": "0xF8CB18"
+    },
+    {
+      "left_hex": "0xF9E430",
+      "right_hex": "0xF9E834",
+      "source": "空中アクロバットよ",
+      "text": "공중 아크로바틱",
+      "background_template_left_hex": "0xF8CB18"
+    },
+    {
+      "left_hex": "0xF9EC38",
+      "right_hex": "0xF9F03C",
+      "source": "対戦する",
+      "text": "대전하기"
+    },
+    {
+      "left_hex": "0xF9F440",
+      "right_hex": "0xF9F844",
+      "source": "対戦開始",
+      "text": "대전 시작"
+    }
+  ]
+}

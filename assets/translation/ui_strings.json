@@ -1,0 +1,1967 @@
+[
+  {
+    "offset": 611324,
+    "offset_hex": "0x953fc",
+    "text": "黒まめにつけ"
+  },
+  {
+    "offset": 611340,
+    "offset_hex": "0x9540c",
+    "text": "バタークッキー"
+  },
+  {
+    "offset": 611356,
+    "offset_hex": "0x9541c",
+    "text": "パンダ"
+  },
+  {
+    "offset": 611364,
+    "offset_hex": "0x95424",
+    "text": "しばたかついえ"
+  },
+  {
+    "offset": 611616,
+    "offset_hex": "0x95520",
+    "text": "自分のめいし"
+  },
+  {
+    "offset": 612536,
+    "offset_hex": "0x958b8",
+    "text": "勝利点"
+  },
+  {
+    "offset": 612544,
+    "offset_hex": "0x958c0",
+    "text": "優勢点"
+  },
+  {
+    "offset": 612560,
+    "offset_hex": "0x958d0",
+    "text": "圧勝"
+  },
+  {
+    "offset": 612568,
+    "offset_hex": "0x958d8",
+    "text": "敗北"
+  },
+  {
+    "offset": 612576,
+    "offset_hex": "0x958e0",
+    "text": "パーフェクト"
+  },
+  {
+    "offset": 612592,
+    "offset_hex": "0x958f0",
+    "text": "１日目勝利"
+  },
+  {
+    "offset": 612604,
+    "offset_hex": "0x958fc",
+    "text": "２日目勝利"
+  },
+  {
+    "offset": 612616,
+    "offset_hex": "0x95908",
+    "text": "３日目勝利"
+  },
+  {
+    "offset": 612628,
+    "offset_hex": "0x95914",
+    "text": "ダブルスコア"
+  },
+  {
+    "offset": 612644,
+    "offset_hex": "0x95924",
+    "text": "トリプル"
+  },
+  {
+    "offset": 612656,
+    "offset_hex": "0x95930",
+    "text": "エクセレント"
+  },
+  {
+    "offset": 612672,
+    "offset_hex": "0x95940",
+    "text": "アメイジング"
+  },
+  {
+    "offset": 612688,
+    "offset_hex": "0x95950",
+    "text": "フィーバー"
+  },
+  {
+    "offset": 612700,
+    "offset_hex": "0x9595c",
+    "text": "大フィーバー"
+  },
+  {
+    "offset": 612724,
+    "offset_hex": "0x95974",
+    "text": "大逆転"
+  },
+  {
+    "offset": 612732,
+    "offset_hex": "0x9597c",
+    "text": "接戦"
+  },
+  {
+    "offset": 612740,
+    "offset_hex": "0x95984",
+    "text": "大接戦"
+  },
+  {
+    "offset": 612748,
+    "offset_hex": "0x9598c",
+    "text": "破産勝利"
+  },
+  {
+    "offset": 612760,
+    "offset_hex": "0x95998",
+    "text": "破産敗北"
+  },
+  {
+    "offset": 613396,
+    "offset_hex": "0x95c14",
+    "text": "ここに保存する"
+  },
+  {
+    "offset": 613456,
+    "offset_hex": "0x95c50",
+    "text": "コピー"
+  },
+  {
+    "offset": 613604,
+    "offset_hex": "0x95ce4",
+    "text": "かんざき"
+  },
+  {
+    "offset": 614104,
+    "offset_hex": "0x95ed8",
+    "text": "プロローグ"
+  },
+  {
+    "offset": 614116,
+    "offset_hex": "0x95ee4",
+    "text": "ＰＫＯの挑戦編"
+  },
+  {
+    "offset": 614132,
+    "offset_hex": "0x95ef4",
+    "text": "ブラゲマ団の陰謀編"
+  },
+  {
+    "offset": 614152,
+    "offset_hex": "0x95f08",
+    "text": "まねき猫商店街編"
+  },
+  {
+    "offset": 614172,
+    "offset_hex": "0x95f1c",
+    "text": "でじこ対ニセでじこ編"
+  },
+  {
+    "offset": 614196,
+    "offset_hex": "0x95f34",
+    "text": "ぴよこにおまかせ！編"
+  },
+  {
+    "offset": 614220,
+    "offset_hex": "0x95f4c",
+    "text": "でじこ・イン・ワンダーランド編"
+  },
+  {
+    "offset": 614252,
+    "offset_hex": "0x95f6c",
+    "text": "最終話"
+  },
+  {
+    "offset": 614568,
+    "offset_hex": "0x960a8",
+    "text": "　『でじこミュニケーション２』"
+  },
+  {
+    "offset": 614600,
+    "offset_hex": "0x960c8",
+    "text": "企画・制作"
+  },
+  {
+    "offset": 614612,
+    "offset_hex": "0x960d4",
+    "text": "　　　　株式会社ブロッコリー"
+  },
+  {
+    "offset": 614644,
+    "offset_hex": "0x960f4",
+    "text": "キャラクターデザイン・原画"
+  },
+  {
+    "offset": 614672,
+    "offset_hex": "0x96110",
+    "text": "　　　　コゲどんぼ"
+  },
+  {
+    "offset": 614692,
+    "offset_hex": "0x96124",
+    "text": "原画・作画監修"
+  },
+  {
+    "offset": 614708,
+    "offset_hex": "0x96134",
+    "text": "　　　　渡辺　明夫"
+  },
+  {
+    "offset": 614728,
+    "offset_hex": "0x96148",
+    "text": "監修"
+  },
+  {
+    "offset": 614736,
+    "offset_hex": "0x96150",
+    "text": "　　　　甑　ひとみ"
+  },
+  {
+    "offset": 614756,
+    "offset_hex": "0x96164",
+    "text": "企画"
+  },
+  {
+    "offset": 614764,
+    "offset_hex": "0x9616c",
+    "text": "　システム原案"
+  },
+  {
+    "offset": 614780,
+    "offset_hex": "0x9617c",
+    "text": "　　　　椎名　誠"
+  },
+  {
+    "offset": 614800,
+    "offset_hex": "0x96190",
+    "text": "　仕様設計"
+  },
+  {
+    "offset": 614812,
+    "offset_hex": "0x9619c",
+    "text": "　　　　岡田　潤"
+  },
+  {
+    "offset": 614832,
+    "offset_hex": "0x961b0",
+    "text": "　　　　橋本　享明"
+  },
+  {
+    "offset": 614852,
+    "offset_hex": "0x961c4",
+    "text": "　　　　河内　武博"
+  },
+  {
+    "offset": 614872,
+    "offset_hex": "0x961d8",
+    "text": "　　　　堀井　直樹"
+  },
+  {
+    "offset": 614892,
+    "offset_hex": "0x961ec",
+    "text": "プログラム"
+  },
+  {
+    "offset": 614904,
+    "offset_hex": "0x961f8",
+    "text": "　メインプログラム"
+  },
+  {
+    "offset": 614924,
+    "offset_hex": "0x9620c",
+    "text": "　　　　阿部　哲也"
+  },
+  {
+    "offset": 614944,
+    "offset_hex": "0x96220",
+    "text": "　　　　今村　正己"
+  },
+  {
+    "offset": 614964,
+    "offset_hex": "0x96234",
+    "text": "        高木  健吾"
+  },
+  {
+    "offset": 614984,
+    "offset_hex": "0x96248",
+    "text": "　ミニゲームプログラム"
+  },
+  {
+    "offset": 615008,
+    "offset_hex": "0x96260",
+    "text": "　　　　豊島　隆志"
+  },
+  {
+    "offset": 615028,
+    "offset_hex": "0x96274",
+    "text": "　音楽モードプログラム"
+  },
+  {
+    "offset": 615052,
+    "offset_hex": "0x9628c",
+    "text": "　　　　原篠　誠"
+  },
+  {
+    "offset": 615072,
+    "offset_hex": "0x962a0",
+    "text": "　サウンドドライバプログラム"
+  },
+  {
+    "offset": 615104,
+    "offset_hex": "0x962c0",
+    "text": "　　　　斎藤　彰良"
+  },
+  {
+    "offset": 615124,
+    "offset_hex": "0x962d4",
+    "text": "  ツールプログラム"
+  },
+  {
+    "offset": 615144,
+    "offset_hex": "0x962e8",
+    "text": "　　　　後藤　昌己"
+  },
+  {
+    "offset": 615164,
+    "offset_hex": "0x962fc",
+    "text": "　ハードウエアサポート"
+  },
+  {
+    "offset": 615188,
+    "offset_hex": "0x96314",
+    "text": "　　　　高橋　智巳"
+  },
+  {
+    "offset": 615208,
+    "offset_hex": "0x96328",
+    "text": "デザイン"
+  },
+  {
+    "offset": 615220,
+    "offset_hex": "0x96334",
+    "text": "　システムグラフィック"
+  },
+  {
+    "offset": 615280,
+    "offset_hex": "0x96370",
+    "text": "　　　　渡辺　拓也"
+  },
+  {
+    "offset": 615300,
+    "offset_hex": "0x96384",
+    "text": "　　　　古賀　恵介"
+  },
+  {
+    "offset": 615320,
+    "offset_hex": "0x96398",
+    "text": "　　　　藤田　延長"
+  },
+  {
+    "offset": 615340,
+    "offset_hex": "0x963ac",
+    "text": "　バストアップ・"
+  },
+  {
+    "offset": 615360,
+    "offset_hex": "0x963c0",
+    "text": "　　　　イベントグラフィック"
+  },
+  {
+    "offset": 615392,
+    "offset_hex": "0x963e0",
+    "text": "　　原画"
+  },
+  {
+    "offset": 615432,
+    "offset_hex": "0x96408",
+    "text": "　　彩色"
+  },
+  {
+    "offset": 615468,
+    "offset_hex": "0x9642c",
+    "text": "　　　　影山　文憲"
+  },
+  {
+    "offset": 615488,
+    "offset_hex": "0x96440",
+    "text": "　　ＣＧ加工"
+  },
+  {
+    "offset": 615504,
+    "offset_hex": "0x96450",
+    "text": "　３Ｄモデリング"
+  },
+  {
+    "offset": 615524,
+    "offset_hex": "0x96464",
+    "text": "　　　　椎名　夏子"
+  },
+  {
+    "offset": 615544,
+    "offset_hex": "0x96478",
+    "text": "　３Ｄモーション"
+  },
+  {
+    "offset": 615576,
+    "offset_hex": "0x96498",
+    "text": "　プロローグ・ＥＸステージシナリオ"
+  },
+  {
+    "offset": 615612,
+    "offset_hex": "0x964bc",
+    "text": "　メインシナリオ"
+  },
+  {
+    "offset": 615632,
+    "offset_hex": "0x964d0",
+    "text": "　　　　菊地　研一郎"
+  },
+  {
+    "offset": 615656,
+    "offset_hex": "0x964e8",
+    "text": "　シナリオ演出"
+  },
+  {
+    "offset": 615672,
+    "offset_hex": "0x964f8",
+    "text": "サウンド"
+  },
+  {
+    "offset": 615684,
+    "offset_hex": "0x96504",
+    "text": "　作曲"
+  },
+  {
+    "offset": 615692,
+    "offset_hex": "0x9650c",
+    "text": "　　　　小谷野  謙一"
+  },
+  {
+    "offset": 615780,
+    "offset_hex": "0x96564",
+    "text": "　既存曲編曲"
+  },
+  {
+    "offset": 615796,
+    "offset_hex": "0x96574",
+    "text": "　　　　斉藤　彰良"
+  },
+  {
+    "offset": 615816,
+    "offset_hex": "0x96588",
+    "text": "　効果音"
+  },
+  {
+    "offset": 615828,
+    "offset_hex": "0x96594",
+    "text": "　サウンドデザイン"
+  },
+  {
+    "offset": 615876,
+    "offset_hex": "0x965c4",
+    "text": "　協力"
+  },
+  {
+    "offset": 615884,
+    "offset_hex": "0x965cc",
+    "text": "　　　　坂本　裕介"
+  },
+  {
+    "offset": 615904,
+    "offset_hex": "0x965e0",
+    "text": "　録音監督"
+  },
+  {
+    "offset": 615916,
+    "offset_hex": "0x965ec",
+    "text": "　　　　稲葉　順一"
+  },
+  {
+    "offset": 615936,
+    "offset_hex": "0x96600",
+    "text": "　録音"
+  },
+  {
+    "offset": 615944,
+    "offset_hex": "0x96608",
+    "text": "　　　　市川　修"
+  },
+  {
+    "offset": 615964,
+    "offset_hex": "0x9661c",
+    "text": "　録音助手"
+  },
+  {
+    "offset": 615976,
+    "offset_hex": "0x96628",
+    "text": "　　　　伊東　光晴"
+  },
+  {
+    "offset": 615996,
+    "offset_hex": "0x9663c",
+    "text": "　録音スタジオ"
+  },
+  {
+    "offset": 616012,
+    "offset_hex": "0x9664c",
+    "text": "　　　　タバック"
+  },
+  {
+    "offset": 616032,
+    "offset_hex": "0x96660",
+    "text": "　音響制作"
+  },
+  {
+    "offset": 616044,
+    "offset_hex": "0x9666c",
+    "text": "　　　　ダックスプロダクション"
+  },
+  {
+    "offset": 616076,
+    "offset_hex": "0x9668c",
+    "text": "挿入歌"
+  },
+  {
+    "offset": 616196,
+    "offset_hex": "0x96704",
+    "text": "　　　　　　　かとうひろこ"
+  },
+  {
+    "offset": 616236,
+    "offset_hex": "0x9672c",
+    "text": "　デ・ジ・キャラット"
+  },
+  {
+    "offset": 616260,
+    "offset_hex": "0x96744",
+    "text": "　　　　真田　アサミ"
+  },
+  {
+    "offset": 616284,
+    "offset_hex": "0x9675c",
+    "text": "　ラ・ビ・アン・ローズ"
+  },
+  {
+    "offset": 616308,
+    "offset_hex": "0x96774",
+    "text": "　　　　氷上　恭子"
+  },
+  {
+    "offset": 616328,
+    "offset_hex": "0x96788",
+    "text": "　プチ・キャラット"
+  },
+  {
+    "offset": 616348,
+    "offset_hex": "0x9679c",
+    "text": "　　　　沢城　みゆき"
+  },
+  {
+    "offset": 616348,
+    "offset_hex": "0x9679c",
+    "text": "沢城　みゆき"
+  },
+  {
+    "offset": 616380,
+    "offset_hex": "0x967bc",
+    "text": "　　　　亀井　芳子"
+  },
+  {
+    "offset": 616428,
+    "offset_hex": "0x967ec",
+    "text": "　　　　林原　めぐみ"
+  },
+  {
+    "offset": 616428,
+    "offset_hex": "0x967ec",
+    "text": "林原　めぐみ"
+  },
+  {
+    "offset": 616476,
+    "offset_hex": "0x9681c",
+    "text": "　　　　鳥海　浩輔"
+  },
+  {
+    "offset": 616524,
+    "offset_hex": "0x9684c",
+    "text": "　　　　鈴木　千尋"
+  },
+  {
+    "offset": 616564,
+    "offset_hex": "0x96874",
+    "text": "　　　　サエキトモ"
+  },
+  {
+    "offset": 616584,
+    "offset_hex": "0x96888",
+    "text": "　うさだ　あかり"
+  },
+  {
+    "offset": 616604,
+    "offset_hex": "0x9689c",
+    "text": "　　　　井口　裕香"
+  },
+  {
+    "offset": 616624,
+    "offset_hex": "0x968b0",
+    "text": "マニュアル　　　　　　　　"
+  },
+  {
+    "offset": 616652,
+    "offset_hex": "0x968cc",
+    "text": "　　　　田中　裕也"
+  },
+  {
+    "offset": 616672,
+    "offset_hex": "0x968e0",
+    "text": "マニュアルデザイン　　　"
+  },
+  {
+    "offset": 616700,
+    "offset_hex": "0x968fc",
+    "text": "　　　　竹林　勇人"
+  },
+  {
+    "offset": 616720,
+    "offset_hex": "0x96910",
+    "text": "スペシャルサンクス"
+  },
+  {
+    "offset": 616740,
+    "offset_hex": "0x96924",
+    "text": "　　　　大高　寛之"
+  },
+  {
+    "offset": 616760,
+    "offset_hex": "0x96938",
+    "text": "　　　　中野　葉子"
+  },
+  {
+    "offset": 616780,
+    "offset_hex": "0x9694c",
+    "text": "　　　　松田　卓郎"
+  },
+  {
+    "offset": 616800,
+    "offset_hex": "0x96960",
+    "text": "　　　　鈴木　寿樹"
+  },
+  {
+    "offset": 616820,
+    "offset_hex": "0x96974",
+    "text": "　　　　窪田　稔"
+  },
+  {
+    "offset": 616840,
+    "offset_hex": "0x96988",
+    "text": "　　　　山中　祐司"
+  },
+  {
+    "offset": 616860,
+    "offset_hex": "0x9699c",
+    "text": "　　　　三浦　健"
+  },
+  {
+    "offset": 616900,
+    "offset_hex": "0x969c4",
+    "text": "        三上  響"
+  },
+  {
+    "offset": 616920,
+    "offset_hex": "0x969d8",
+    "text": "プロダクトマネジメント"
+  },
+  {
+    "offset": 616944,
+    "offset_hex": "0x969f0",
+    "text": "ゲーム製作"
+  },
+  {
+    "offset": 616956,
+    "offset_hex": "0x969fc",
+    "text": "　　　　有限会社エムツー"
+  },
+  {
+    "offset": 617108,
+    "offset_hex": "0x96a94",
+    "text": "ディレクター"
+  },
+  {
+    "offset": 617124,
+    "offset_hex": "0x96aa4",
+    "text": "　　　　山本　匠"
+  },
+  {
+    "offset": 617144,
+    "offset_hex": "0x96ab8",
+    "text": "プロデューサー"
+  },
+  {
+    "offset": 617160,
+    "offset_hex": "0x96ac8",
+    "text": "エグゼクティブプロデューサー"
+  },
+  {
+    "offset": 617192,
+    "offset_hex": "0x96ae8",
+    "text": "　　　　木谷　高明"
+  },
+  {
+    "offset": 617212,
+    "offset_hex": "0x96afc",
+    "text": "製作"
+  },
+  {
+    "offset": 618880,
+    "offset_hex": "0x97180",
+    "text": "　　　　　　　沢城　みゆき"
+  },
+  {
+    "offset": 618908,
+    "offset_hex": "0x9719c",
+    "text": "　　　　　　　氷上　恭子"
+  },
+  {
+    "offset": 620592,
+    "offset_hex": "0x97830",
+    "text": "　ミルフィーユ桜葉"
+  },
+  {
+    "offset": 620612,
+    "offset_hex": "0x97844",
+    "text": "　　　　新谷　良子"
+  },
+  {
+    "offset": 1156980,
+    "offset_hex": "0x11a774",
+    "text": "この山札にする　"
+  },
+  {
+    "offset": 1157288,
+    "offset_hex": "0x11a8a8",
+    "text": "このお店にする"
+  },
+  {
+    "offset": 1157388,
+    "offset_hex": "0x11a90c",
+    "text": "お店を棚６つに拡張する"
+  },
+  {
+    "offset": 1157428,
+    "offset_hex": "0x11a934",
+    "text": "お店を棚８つに拡張する"
+  },
+  {
+    "offset": 1157478,
+    "offset_hex": "0x11a966",
+    "text": "個に拡張する"
+  },
+  {
+    "offset": 1323960,
+    "offset_hex": "0x1433b8",
+    "text": "ジャミング　　"
+  },
+  {
+    "offset": 1324056,
+    "offset_hex": "0x143418",
+    "text": "マジシャン　　"
+  },
+  {
+    "offset": 1324072,
+    "offset_hex": "0x143428",
+    "text": "ビッグスター　"
+  },
+  {
+    "offset": 1332968,
+    "offset_hex": "0x1456e8",
+    "text": "【ステータス】\n"
+  },
+  {
+    "offset": 1332996,
+    "offset_hex": "0x145704",
+    "text": "整とん　"
+  },
+  {
+    "offset": 1333008,
+    "offset_hex": "0x145710",
+    "text": "販売　　"
+  },
+  {
+    "offset": 1333020,
+    "offset_hex": "0x14571c",
+    "text": "会員　　"
+  },
+  {
+    "offset": 1333326,
+    "offset_hex": "0x14584e",
+    "text": "日間でより多く稼げ！"
+  },
+  {
+    "offset": 1333354,
+    "offset_hex": "0x14586a",
+    "text": "人のお客さんを入れろ！"
+  },
+  {
+    "offset": 1424864,
+    "offset_hex": "0x15bde0",
+    "text": "せっくす"
+  },
+  {
+    "offset": 1424876,
+    "offset_hex": "0x15bdec",
+    "text": "ちんちん"
+  },
+  {
+    "offset": 1424888,
+    "offset_hex": "0x15bdf8",
+    "text": "ちんこ"
+  },
+  {
+    "offset": 1424896,
+    "offset_hex": "0x15be00",
+    "text": "ちんぽ"
+  },
+  {
+    "offset": 1424904,
+    "offset_hex": "0x15be08",
+    "text": "まんこ"
+  },
+  {
+    "offset": 1424912,
+    "offset_hex": "0x15be10",
+    "text": "あなる"
+  },
+  {
+    "offset": 1424920,
+    "offset_hex": "0x15be18",
+    "text": "あぬす"
+  },
+  {
+    "offset": 1424928,
+    "offset_hex": "0x15be20",
+    "text": "ふぇらちお"
+  },
+  {
+    "offset": 1424940,
+    "offset_hex": "0x15be2c",
+    "text": "ざーめん"
+  },
+  {
+    "offset": 1424952,
+    "offset_hex": "0x15be38",
+    "text": "くりとりす"
+  },
+  {
+    "offset": 1424964,
+    "offset_hex": "0x15be44",
+    "text": "ぺにす"
+  },
+  {
+    "offset": 1424972,
+    "offset_hex": "0x15be4c",
+    "text": "おなに"
+  },
+  {
+    "offset": 1424980,
+    "offset_hex": "0x15be54",
+    "text": "おしっこ"
+  },
+  {
+    "offset": 1424992,
+    "offset_hex": "0x15be60",
+    "text": "しょんべん"
+  },
+  {
+    "offset": 1425004,
+    "offset_hex": "0x15be6c",
+    "text": "しょうべん"
+  },
+  {
+    "offset": 1425016,
+    "offset_hex": "0x15be78",
+    "text": "ヴぁぎな"
+  },
+  {
+    "offset": 1425028,
+    "offset_hex": "0x15be84",
+    "text": "うんこ"
+  },
+  {
+    "offset": 1425036,
+    "offset_hex": "0x15be8c",
+    "text": "うんち"
+  },
+  {
+    "offset": 1452082,
+    "offset_hex": "0x162832",
+    "text": "リフラワー"
+  },
+  {
+    "offset": 11206412,
+    "offset_hex": "0xaaff0c",
+    "text": "ミラクル店長"
+  },
+  {
+    "offset": 11206428,
+    "offset_hex": "0xaaff1c",
+    "text": "パーフェクト店長"
+  },
+  {
+    "offset": 11206448,
+    "offset_hex": "0xaaff30",
+    "text": "ハイパー店長"
+  },
+  {
+    "offset": 11206464,
+    "offset_hex": "0xaaff40",
+    "text": "ゴージャス店長"
+  },
+  {
+    "offset": 11206480,
+    "offset_hex": "0xaaff50",
+    "text": "カリスマ店長"
+  },
+  {
+    "offset": 11206496,
+    "offset_hex": "0xaaff60",
+    "text": "エース店長"
+  },
+  {
+    "offset": 11206508,
+    "offset_hex": "0xaaff6c",
+    "text": "すごい店長"
+  },
+  {
+    "offset": 11206520,
+    "offset_hex": "0xaaff78",
+    "text": "ただの店長"
+  },
+  {
+    "offset": 11206532,
+    "offset_hex": "0xaaff84",
+    "text": "いまいち店長"
+  },
+  {
+    "offset": 11206548,
+    "offset_hex": "0xaaff94",
+    "text": "ダメダメ店長"
+  },
+  {
+    "offset": 11206564,
+    "offset_hex": "0xaaffa4",
+    "text": "ビンボー神店長"
+  },
+  {
+    "offset": 11206580,
+    "offset_hex": "0xaaffb4",
+    "text": "新米店長"
+  },
+  {
+    "offset": 11211080,
+    "offset_hex": "0xab1148",
+    "text": "さいしょの山場"
+  },
+  {
+    "offset": 11211108,
+    "offset_hex": "0xab1164",
+    "text": "でじこ、寝込む"
+  },
+  {
+    "offset": 11211124,
+    "offset_hex": "0xab1174",
+    "text": "ありがとう、あかり姉さま"
+  },
+  {
+    "offset": 11211168,
+    "offset_hex": "0xab11a0",
+    "text": "うさだ、一回休み"
+  },
+  {
+    "offset": 11211188,
+    "offset_hex": "0xab11b4",
+    "text": "じっちゃとばっちゃ"
+  },
+  {
+    "offset": 11211208,
+    "offset_hex": "0xab11c8",
+    "text": "ぷちこ焼き、大人気"
+  },
+  {
+    "offset": 11211228,
+    "offset_hex": "0xab11dc",
+    "text": "羽合海岸、再び"
+  },
+  {
+    "offset": 11211244,
+    "offset_hex": "0xab11ec",
+    "text": "とにかく暑い日"
+  },
+  {
+    "offset": 11211260,
+    "offset_hex": "0xab11fc",
+    "text": "大寒波"
+  },
+  {
+    "offset": 11211268,
+    "offset_hex": "0xab1204",
+    "text": "雨宿り"
+  },
+  {
+    "offset": 11211276,
+    "offset_hex": "0xab120c",
+    "text": "今日はクリスマス"
+  },
+  {
+    "offset": 11211312,
+    "offset_hex": "0xab1230",
+    "text": "残された人びと"
+  },
+  {
+    "offset": 11211328,
+    "offset_hex": "0xab1240",
+    "text": "母、来る"
+  },
+  {
+    "offset": 11211340,
+    "offset_hex": "0xab124c",
+    "text": "本気で勝負！"
+  },
+  {
+    "offset": 11211356,
+    "offset_hex": "0xab125c",
+    "text": "仲直り"
+  },
+  {
+    "offset": 11211364,
+    "offset_hex": "0xab1264",
+    "text": "立ち上がるにょ！"
+  },
+  {
+    "offset": 11211396,
+    "offset_hex": "0xab1284",
+    "text": "はたらくでじこ"
+  },
+  {
+    "offset": 11211412,
+    "offset_hex": "0xab1294",
+    "text": "とどけるわ"
+  },
+  {
+    "offset": 11211424,
+    "offset_hex": "0xab12a0",
+    "text": "ぷちこ焼き大入荷"
+  },
+  {
+    "offset": 11211444,
+    "offset_hex": "0xab12b4",
+    "text": "はたらくぴよこ"
+  },
+  {
+    "offset": 11211460,
+    "offset_hex": "0xab12c4",
+    "text": "町一番の店長さん"
+  },
+  {
+    "offset": 11211480,
+    "offset_hex": "0xab12d8",
+    "text": "店長さんは神！"
+  },
+  {
+    "offset": 11211496,
+    "offset_hex": "0xab12e8",
+    "text": "タイトル"
+  },
+  {
+    "offset": 11211508,
+    "offset_hex": "0xab12f4",
+    "text": "ミニゲーム、ゲットにょ！"
+  },
+  {
+    "offset": 11211536,
+    "offset_hex": "0xab1310",
+    "text": "ミニゲーム、ゲットよ！"
+  },
+  {
+    "offset": 11211560,
+    "offset_hex": "0xab1328",
+    "text": "ミニゲーム、ゲットにゅ！"
+  },
+  {
+    "offset": 11211588,
+    "offset_hex": "0xab1344",
+    "text": "ミニゲーム、ゲットぴょ！"
+  },
+  {
+    "offset": 11211616,
+    "offset_hex": "0xab1360",
+    "text": "日本一の店長さん"
+  },
+  {
+    "offset": 11211636,
+    "offset_hex": "0xab1374",
+    "text": "ゲーマーズの勝ち"
+  },
+  {
+    "offset": 11211656,
+    "offset_hex": "0xab1388",
+    "text": "ゲーマーズ、破産"
+  },
+  {
+    "offset": 11211676,
+    "offset_hex": "0xab139c",
+    "text": "ブラゲマ、破産"
+  },
+  {
+    "offset": 11211692,
+    "offset_hex": "0xab13ac",
+    "text": "幕開け"
+  },
+  {
+    "offset": 11211700,
+    "offset_hex": "0xab13b4",
+    "text": "ＰＫＯ編"
+  },
+  {
+    "offset": 11211712,
+    "offset_hex": "0xab13c0",
+    "text": "ブラゲマ編"
+  },
+  {
+    "offset": 11211724,
+    "offset_hex": "0xab13cc",
+    "text": "商店街編"
+  },
+  {
+    "offset": 11211736,
+    "offset_hex": "0xab13d8",
+    "text": "ニセでじこ編"
+  },
+  {
+    "offset": 11211752,
+    "offset_hex": "0xab13e8",
+    "text": "ぴよこ編"
+  },
+  {
+    "offset": 11211764,
+    "offset_hex": "0xab13f4",
+    "text": "でじこ編"
+  },
+  {
+    "offset": 11211776,
+    "offset_hex": "0xab1400",
+    "text": "超・でじこ"
+  },
+  {
+    "offset": 11211804,
+    "offset_hex": "0xab141c",
+    "text": "プチ・キャラットにゅ"
+  },
+  {
+    "offset": 11211828,
+    "offset_hex": "0xab1434",
+    "text": "略して巨ロボ"
+  },
+  {
+    "offset": 11211844,
+    "offset_hex": "0xab1444",
+    "text": "下校中"
+  },
+  {
+    "offset": 11211852,
+    "offset_hex": "0xab144c",
+    "text": "泣いちゃうぴょ…"
+  },
+  {
+    "offset": 11211872,
+    "offset_hex": "0xab1460",
+    "text": "ゲーマーズ前"
+  },
+  {
+    "offset": 11211888,
+    "offset_hex": "0xab1470",
+    "text": "ブラックゲーマーズ前"
+  },
+  {
+    "offset": 11211944,
+    "offset_hex": "0xab14a8",
+    "text": "刈巣魔"
+  },
+  {
+    "offset": 11211952,
+    "offset_hex": "0xab14b0",
+    "text": "まねき猫商店街"
+  },
+  {
+    "offset": 11211968,
+    "offset_hex": "0xab14c0",
+    "text": "ブラゲマのＵＦＯ"
+  },
+  {
+    "offset": 11211996,
+    "offset_hex": "0xab14dc",
+    "text": "店長さん、世界一！"
+  },
+  {
+    "offset": 11212016,
+    "offset_hex": "0xab14f0",
+    "text": "ひと休み"
+  },
+  {
+    "offset": 11212028,
+    "offset_hex": "0xab14fc",
+    "text": "引き分け"
+  },
+  {
+    "offset": 11212072,
+    "offset_hex": "0xab1528",
+    "text": "秋葉原"
+  },
+  {
+    "offset": 11212080,
+    "offset_hex": "0xab1530",
+    "text": "雪の秋葉原"
+  },
+  {
+    "offset": 11212092,
+    "offset_hex": "0xab153c",
+    "text": "旅館"
+  },
+  {
+    "offset": 11212100,
+    "offset_hex": "0xab1544",
+    "text": "花畑"
+  },
+  {
+    "offset": 11212116,
+    "offset_hex": "0xab1554",
+    "text": "でじこの部屋"
+  },
+  {
+    "offset": 11212132,
+    "offset_hex": "0xab1564",
+    "text": "縁日"
+  },
+  {
+    "offset": 11212140,
+    "offset_hex": "0xab156c",
+    "text": "ひな祭り"
+  },
+  {
+    "offset": 11212156,
+    "offset_hex": "0xab157c",
+    "text": "運動場"
+  },
+  {
+    "offset": 11215812,
+    "offset_hex": "0xab23c4",
+    "text": "でじこの店"
+  },
+  {
+    "offset": 11215824,
+    "offset_hex": "0xab23d0",
+    "text": "でじこの店・"
+  },
+  {
+    "offset": 11215840,
+    "offset_hex": "0xab23e0",
+    "text": "本家でじこ屋"
+  },
+  {
+    "offset": 11215856,
+    "offset_hex": "0xab23f0",
+    "text": "本家でじこ屋・"
+  },
+  {
+    "offset": 11215876,
+    "offset_hex": "0xab2404",
+    "text": "でじこランド"
+  },
+  {
+    "offset": 11215892,
+    "offset_hex": "0xab2414",
+    "text": "でじこランド・"
+  },
+  {
+    "offset": 11215912,
+    "offset_hex": "0xab2428",
+    "text": "ぷちこの店"
+  },
+  {
+    "offset": 11215924,
+    "offset_hex": "0xab2434",
+    "text": "ぷちこの店・"
+  },
+  {
+    "offset": 11215940,
+    "offset_hex": "0xab2444",
+    "text": "元祖ぷちこ屋"
+  },
+  {
+    "offset": 11215956,
+    "offset_hex": "0xab2454",
+    "text": "元祖ぷちこ屋・"
+  },
+  {
+    "offset": 11215976,
+    "offset_hex": "0xab2468",
+    "text": "ぷちこランド"
+  },
+  {
+    "offset": 11215992,
+    "offset_hex": "0xab2478",
+    "text": "ぷちこランド・"
+  },
+  {
+    "offset": 11216012,
+    "offset_hex": "0xab248c",
+    "text": "うさだの店"
+  },
+  {
+    "offset": 11216024,
+    "offset_hex": "0xab2498",
+    "text": "うさだの店・"
+  },
+  {
+    "offset": 11216040,
+    "offset_hex": "0xab24a8",
+    "text": "うさだ屋本舗"
+  },
+  {
+    "offset": 11216056,
+    "offset_hex": "0xab24b8",
+    "text": "うさだ屋本舗・"
+  },
+  {
+    "offset": 11216076,
+    "offset_hex": "0xab24cc",
+    "text": "うさだランド"
+  },
+  {
+    "offset": 11216092,
+    "offset_hex": "0xab24dc",
+    "text": "うさだランド・"
+  },
+  {
+    "offset": 11216112,
+    "offset_hex": "0xab24f0",
+    "text": "ぴよこの店"
+  },
+  {
+    "offset": 11216124,
+    "offset_hex": "0xab24fc",
+    "text": "ぴよこの店・"
+  },
+  {
+    "offset": 11216140,
+    "offset_hex": "0xab250c",
+    "text": "悪のぴよこ屋"
+  },
+  {
+    "offset": 11216156,
+    "offset_hex": "0xab251c",
+    "text": "悪のぴよこ屋・"
+  },
+  {
+    "offset": 11216176,
+    "offset_hex": "0xab2530",
+    "text": "ぴよこランド"
+  },
+  {
+    "offset": 11216192,
+    "offset_hex": "0xab2540",
+    "text": "ぴよこランド・"
+  },
+  {
+    "offset": 11216212,
+    "offset_hex": "0xab2554",
+    "text": "ザ・ゲーマーズ"
+  },
+  {
+    "offset": 11216248,
+    "offset_hex": "0xab2578",
+    "text": "フラワーショップ"
+  },
+  {
+    "offset": 11216288,
+    "offset_hex": "0xab25a0",
+    "text": "花のマーケット"
+  },
+  {
+    "offset": 11216324,
+    "offset_hex": "0xab25c4",
+    "text": "フラワーガーデン"
+  },
+  {
+    "offset": 11216364,
+    "offset_hex": "0xab25ec",
+    "text": "おもちゃ屋さん"
+  },
+  {
+    "offset": 11216396,
+    "offset_hex": "0xab260c",
+    "text": "トイパーク"
+  },
+  {
+    "offset": 11216424,
+    "offset_hex": "0xab2628",
+    "text": "おもちゃデパート"
+  },
+  {
+    "offset": 11216464,
+    "offset_hex": "0xab2650",
+    "text": "ゲーム店"
+  },
+  {
+    "offset": 11216488,
+    "offset_hex": "0xab2668",
+    "text": "ワンダーランド"
+  },
+  {
+    "offset": 11216524,
+    "offset_hex": "0xab268c",
+    "text": "ゲームパレス"
+  },
+  {
+    "offset": 11216584,
+    "offset_hex": "0xab26c8",
+    "text": "お菓子工房"
+  },
+  {
+    "offset": 11216612,
+    "offset_hex": "0xab26e4",
+    "text": "パティスリー"
+  },
+  {
+    "offset": 11216644,
+    "offset_hex": "0xab2704",
+    "text": "文具店"
+  },
+  {
+    "offset": 11216664,
+    "offset_hex": "0xab2718",
+    "text": "ステーショナリー"
+  },
+  {
+    "offset": 11216732,
+    "offset_hex": "0xab275c",
+    "text": "青果店"
+  },
+  {
+    "offset": 11217520,
+    "offset_hex": "0xab2a70",
+    "text": "マーガレット"
+  },
+  {
+    "offset": 11217536,
+    "offset_hex": "0xab2a80",
+    "text": "チューリップ"
+  },
+  {
+    "offset": 11217564,
+    "offset_hex": "0xab2a9c",
+    "text": "パンジー"
+  },
+  {
+    "offset": 11217576,
+    "offset_hex": "0xab2aa8",
+    "text": "ショートケーキ"
+  },
+  {
+    "offset": 11217592,
+    "offset_hex": "0xab2ab8",
+    "text": "チーズケーキ"
+  },
+  {
+    "offset": 11217608,
+    "offset_hex": "0xab2ac8",
+    "text": "モンブラン"
+  },
+  {
+    "offset": 11217620,
+    "offset_hex": "0xab2ad4",
+    "text": "チョコレートケーキ"
+  },
+  {
+    "offset": 11217696,
+    "offset_hex": "0xab2b20",
+    "text": "ゲーム機"
+  },
+  {
+    "offset": 11217740,
+    "offset_hex": "0xab2b4c",
+    "text": "おいしいブロッリー"
+  },
+  {
+    "offset": 11217760,
+    "offset_hex": "0xab2b60",
+    "text": "身代り地蔵１"
+  },
+  {
+    "offset": 11217776,
+    "offset_hex": "0xab2b70",
+    "text": "身代り地蔵２"
+  },
+  {
+    "offset": 11217792,
+    "offset_hex": "0xab2b80",
+    "text": "にせ地蔵"
+  },
+  {
+    "offset": 11217804,
+    "offset_hex": "0xab2b8c",
+    "text": "はたらき者"
+  },
+  {
+    "offset": 11217816,
+    "offset_hex": "0xab2b98",
+    "text": "貯金箱"
+  },
+  {
+    "offset": 11218276,
+    "offset_hex": "0xab2d64",
+    "text": "でじこのよびこみ仕事レベルに"
+  },
+  {
+    "offset": 11218324,
+    "offset_hex": "0xab2d94",
+    "text": "ぷちこのよびこみ仕事レベルに"
+  },
+  {
+    "offset": 11218372,
+    "offset_hex": "0xab2dc4",
+    "text": "うさだのよびこみ仕事レベルに"
+  },
+  {
+    "offset": 11218420,
+    "offset_hex": "0xab2df4",
+    "text": "ぴよこのよびこみ仕事レベルに"
+  },
+  {
+    "offset": 11218472,
+    "offset_hex": "0xab2e28",
+    "text": "でじこの整とん仕事レベルに"
+  },
+  {
+    "offset": 11218524,
+    "offset_hex": "0xab2e5c",
+    "text": "ぷちこの整とん仕事レベルに"
+  },
+  {
+    "offset": 11218576,
+    "offset_hex": "0xab2e90",
+    "text": "うさだの整とん仕事レベルに"
+  },
+  {
+    "offset": 11218628,
+    "offset_hex": "0xab2ec4",
+    "text": "ぴよこの整とん仕事レベルに"
+  },
+  {
+    "offset": 11218676,
+    "offset_hex": "0xab2ef4",
+    "text": "でじこの販売仕事レベルに"
+  },
+  {
+    "offset": 11218720,
+    "offset_hex": "0xab2f20",
+    "text": "ぷちこの販売仕事レベルに"
+  },
+  {
+    "offset": 11218764,
+    "offset_hex": "0xab2f4c",
+    "text": "うさだの販売仕事レベルに"
+  },
+  {
+    "offset": 11218808,
+    "offset_hex": "0xab2f78",
+    "text": "ぴよこの販売仕事レベルに"
+  },
+  {
+    "offset": 11218852,
+    "offset_hex": "0xab2fa4",
+    "text": "でじこの会員仕事レベルに"
+  },
+  {
+    "offset": 11218896,
+    "offset_hex": "0xab2fd0",
+    "text": "ぷちこの会員仕事レベルに"
+  },
+  {
+    "offset": 11218940,
+    "offset_hex": "0xab2ffc",
+    "text": "うさだの会員仕事レベルに"
+  },
+  {
+    "offset": 11218984,
+    "offset_hex": "0xab3028",
+    "text": "ぴよこの会員仕事レベルに"
+  },
+  {
+    "offset": 13825259,
+    "offset_hex": "0xd2f4eb",
+    "text": "に思い出\nをぜ"
+  },
+  {
+    "offset": 13844672,
+    "offset_hex": "0xd340c0",
+    "text": "ＢＧ団員"
+  },
+  {
+    "offset": 13844703,
+    "offset_hex": "0xd340df",
+    "text": "かせげ！"
+  },
+  {
+    "offset": 13844712,
+    "offset_hex": "0xd340e8",
+    "text": "ゲーマーズ店員の仕事レベルを合計"
+  },
+  {
+    "offset": 13849327,
+    "offset_hex": "0xd352ef",
+    "text": "万円多く稼ぐ"
+  },
+  {
+    "offset": 13853928,
+    "offset_hex": "0xd364e8",
+    "text": "１日の間、相手のお店にお客さんを入れない"
+  },
+  {
+    "offset": 13858549,
+    "offset_hex": "0xd376f5",
+    "text": "日以内にクリアする"
+  },
+  {
+    "offset": 13867832,
+    "offset_hex": "0xd39b38",
+    "text": "激しい雨"
+  },
+  {
+    "offset": 13872700,
+    "offset_hex": "0xd3ae3c",
+    "text": "暑い日"
+  },
+  {
+    "offset": 13877587,
+    "offset_hex": "0xd3c153",
+    "text": "客を呼べ！"
+  },
+  {
+    "offset": 13877598,
+    "offset_hex": "0xd3c15e",
+    "text": "店長カードを使い、暴発させる"
+  },
+  {
+    "offset": 13882252,
+    "offset_hex": "0xd3d38c",
+    "text": "売れ残ったケーキを投げ売れ！"
+  },
+  {
+    "offset": 13882314,
+    "offset_hex": "0xd3d3ca",
+    "text": "相手を破産させる"
+  },
+  {
+    "offset": 13887002,
+    "offset_hex": "0xd3e61a",
+    "text": "よびこみをつけたゲーマーズ店員の仕事レベルを"
+  },
+  {
+    "offset": 13891640,
+    "offset_hex": "0xd3f838",
+    "text": "でじこ、へこたれる"
+  },
+  {
+    "offset": 13896348,
+    "offset_hex": "0xd40a9c",
+    "text": "ぷちこ焼きを売れ"
+  },
+  {
+    "offset": 13896399,
+    "offset_hex": "0xd40acf",
+    "text": "人のゲーマーズ店員が同じ仕事をしている状態にする"
+  },
+  {
+    "offset": 13901060,
+    "offset_hex": "0xd41d04",
+    "text": "うさだときよし"
+  },
+  {
+    "offset": 13905772,
+    "offset_hex": "0xd42f6c",
+    "text": "お店に置く物"
+  },
+  {
+    "offset": 13905786,
+    "offset_hex": "0xd42f7a",
+    "text": "日でより多くかせぐ"
+  },
+  {
+    "offset": 13905811,
+    "offset_hex": "0xd42f93",
+    "text": "より多くかせげ！"
+  },
+  {
+    "offset": 13905828,
+    "offset_hex": "0xd42fa4",
+    "text": "ターボカードを一度も使わずにクリアする"
+  },
+  {
+    "offset": 13910480,
+    "offset_hex": "0xd441d0",
+    "text": "負けられない戦い"
+  },
+  {
+    "offset": 13910543,
+    "offset_hex": "0xd4420f",
+    "text": "回連続で成功させる"
+  },
+  {
+    "offset": 13914820,
+    "offset_hex": "0xd452c4",
+    "text": "正統ゲーマーズ"
+  },
+  {
+    "offset": 13915664,
+    "offset_hex": "0xd45610",
+    "text": "ニセでじこ登場！"
+  },
+  {
+    "offset": 13920308,
+    "offset_hex": "0xd46834",
+    "text": "ニセモノはお前だ！"
+  },
+  {
+    "offset": 13920370,
+    "offset_hex": "0xd46872",
+    "text": "万円の売り上げを稼ぐ"
+  },
+  {
+    "offset": 13924972,
+    "offset_hex": "0xd47a6c",
+    "text": "出現！でじこ大仏"
+  },
+  {
+    "offset": 13925022,
+    "offset_hex": "0xd47a9e",
+    "text": "会員をつけたゲーマーズ店員の仕事レベルを"
+  },
+  {
+    "offset": 13929804,
+    "offset_hex": "0xd48d4c",
+    "text": "戦うロボ"
+  },
+  {
+    "offset": 13934628,
+    "offset_hex": "0xd4a024",
+    "text": "ニセモノをやっつけろ"
+  },
+  {
+    "offset": 13934683,
+    "offset_hex": "0xd4a05b",
+    "text": "回ルーレットを回し、連続で暴発させる"
+  },
+  {
+    "offset": 13939338,
+    "offset_hex": "0xd4b28a",
+    "text": "整とんをつけたゲーマーズ店員の仕事レベルを"
+  },
+  {
+    "offset": 13943996,
+    "offset_hex": "0xd4c4bc",
+    "text": "チョコの逆うらみ"
+  },
+  {
+    "offset": 13944046,
+    "offset_hex": "0xd4c4ee",
+    "text": "両方のお店についた仕事カードの合計枚数が"
+  },
+  {
+    "offset": 13948672,
+    "offset_hex": "0xd4d700",
+    "text": "残された人々"
+  },
+  {
+    "offset": 13953328,
+    "offset_hex": "0xd4e930",
+    "text": "新しい家"
+  },
+  {
+    "offset": 13953368,
+    "offset_hex": "0xd4e958",
+    "text": "仕事カードを一度も使わずにクリアする"
+  },
+  {
+    "offset": 13958108,
+    "offset_hex": "0xd4fbdc",
+    "text": "夏の日差し"
+  },
+  {
+    "offset": 13958147,
+    "offset_hex": "0xd4fc03",
+    "text": "一日でかせげ！"
+  },
+  {
+    "offset": 13958162,
+    "offset_hex": "0xd4fc12",
+    "text": "１日に店長カードを"
+  },
+  {
+    "offset": 13962700,
+    "offset_hex": "0xd50dcc",
+    "text": "夏の終わり"
+  },
+  {
+    "offset": 13967563,
+    "offset_hex": "0xd520cb",
+    "text": "回以上回し、全て成功させる"
+  },
+  {
+    "offset": 13976152,
+    "offset_hex": "0xd54258",
+    "text": "真・正統ゲーマーズ"
+  },
+  {
+    "offset": 13977000,
+    "offset_hex": "0xd545a8",
+    "text": "母よ、やっぱりあなたは強かった！"
+  },
+  {
+    "offset": 13981845,
+    "offset_hex": "0xd55895",
+    "text": "倍以上の差をつける"
+  },
+  {
+    "offset": 13986500,
+    "offset_hex": "0xd56ac4",
+    "text": "おわり　そして　はじまり"
+  },
+  {
+    "offset": 13986570,
+    "offset_hex": "0xd56b0a",
+    "text": "相手の店員が一人も仕事をしなくする"
+  },
+  {
+    "offset": 13991156,
+    "offset_hex": "0xd57cf4",
+    "text": "でじこの本当の戦いはこれからにょ！"
+  },
+  {
+    "offset": 13991224,
+    "offset_hex": "0xd57d38",
+    "text": "呪いが暴発した状態で、店長カードを"
+  },
+  {
+    "offset": 13995752,
+    "offset_hex": "0xd58ee8",
+    "text": "でじこ・イン・ワンダーランド"
+  },
+  {
+    "offset": 14000504,
+    "offset_hex": "0xd5a178",
+    "text": "さぼりカードを"
+  },
+  {
+    "offset": 14010186,
+    "offset_hex": "0xd5c74a",
+    "text": "相手より人気が無い状態でクリアする"
+  },
+  {
+    "offset": 14014882,
+    "offset_hex": "0xd5d9a2",
+    "text": "販売をつけたゲーマーズ店員の仕事レベルを"
+  },
+  {
+    "offset": 14024360,
+    "offset_hex": "0xd5fea8",
+    "text": "店長カードを使うのは３枚以内"
+  },
+  {
+    "offset": 14031578,
+    "offset_hex": "0xd61ada",
+    "text": "客いれかえ、返品、ぶんどり、１００万円、"
+  },
+  {
+    "offset": 14031620,
+    "offset_hex": "0xd61b04",
+    "text": "コスト、呪いを使わない"
+  },
+  {
+    "offset": 14040724,
+    "offset_hex": "0xd63e94",
+    "text": "ターボ５倍"
+  },
+  {
+    "offset": 14040768,
+    "offset_hex": "0xd63ec0",
+    "text": "ターボカードを７枚以上使う"
+  },
+  {
+    "offset": 14072832,
+    "offset_hex": "0xd6bc00",
+    "text": "ほげーまーず"
+  },
+  {
+    "offset": 14082388,
+    "offset_hex": "0xd6e154",
+    "text": "ゲマ屋"
+  },
+  {
+    "offset": 14086928,
+    "offset_hex": "0xd6f310",
+    "text": "でじこ屋"
+  },
+  {
+    "offset": 14087840,
+    "offset_hex": "0xd6f6a0",
+    "text": "うさだ屋"
+  },
+  {
+    "offset": 14088680,
+    "offset_hex": "0xd6f9e8",
+    "text": "よびこみカードで来い来いにょ！"
+  },
+  {
+    "offset": 14088733,
+    "offset_hex": "0xd6fa1d",
+    "text": "一日で呼べ！"
+  },
+  {
+    "offset": 14098124,
+    "offset_hex": "0xd71ecc",
+    "text": "にせよびこみでおジャマにょ！"
+  },
+  {
+    "offset": 14106560,
+    "offset_hex": "0xd73fc0",
+    "text": "会員カードで人気者にょ！"
+  },
+  {
+    "offset": 14114452,
+    "offset_hex": "0xd75e94",
+    "text": "販売カードでウハウハにょ！"
+  },
+  {
+    "offset": 14122088,
+    "offset_hex": "0xd77c68",
+    "text": "ターボ２倍でゴーゴーにょ！"
+  },
+  {
+    "offset": 14129524,
+    "offset_hex": "0xd79974",
+    "text": "イベントカードで大忙しにょ！"
+  },
+  {
+    "offset": 14137900,
+    "offset_hex": "0xd7ba2c",
+    "text": "いざ、しんけん勝負にょ！"
+  },
+  {
+    "offset": 16433004,
+    "offset_hex": "0xfabf6c",
+    "text": "　。「」、・ヲァィゥェォャュョッーアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワン゛゜"
+  }
+]
