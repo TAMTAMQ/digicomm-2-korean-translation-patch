@@ -2,7 +2,7 @@
 
 > **공개 Git 범위 안내 (2026-08-31):** 이 저장소는 배포 안내와 함께 `tools` 소스코드, 추출된 텍스트/JSON·TSV 메타데이터, `assets/translation` 번역 작업 데이터, 문서/라이선스를 공개한다. ROM/BIOS/세이브/세이브스테이트/원본·번역 이미지/폰트 바이너리/IPS/빌드 산출물은 Git에 포함하지 않는다. 아래 기록에 이미지나 ROM/IPS 경로가 등장하는 것은 로컬 개발 이력이며 공개 저장소에 해당 파일이 포함된다는 뜻이 아니다.
 
-갱신: 2026-08-31 — **현재 메시지/고정 UI/일반 이미지/사용자 수정 `0b0dfec`·`0xb388f4`/자막·가사 350장/카드·메뉴 OBJ/종료·START/미니게임/이름 입력·받침/명함 보기 버튼/미니게임 캐릭터명 8x8 누락 글리프까지 통합.**
+갱신: 2026-09-09 — **기존 전체 통합 상태를 유지하면서 GitHub Issue #1 이름 오역(`피요코` → `삐요코`)까지 반영.**
 
 > **이 문서의 `현재 상태`가 기술 작업 기준이다. 현재 알려진 미착수 항목은 0건이다.** 다만 AI 번역 기반이므로 오역, 어색한 말투, 새로 발견되는 미번역/버그는 이후에도 계속 수정될 수 있다. 실제 배포 버전 번호와 릴리스 파일은 GitHub Releases에서 관리한다. 아래 날짜별 장문 기록은 문제를 발견하고 고쳐 온 당시의 작업 일지이며, 과거의 `당시 미착수`/`남은 작업`/구형 SHA는 역사 기록일 뿐 현재 완료 여부를 뜻하지 않는다.
 
@@ -33,7 +33,7 @@
 | 기타 UI | 완료 — 종료 버튼, 타이틀 START, 카드 상세 종류 라벨 등 최신 수정 포함 |
 | 정적 검증 | 완료 — 이미지/자막 재삽입 **relocation 0**, 고정 슬롯 overflow 0, 최종 빌드 16 MiB 유지 |
 | 런타임 검증 | 핵심 부팅/메뉴/상점/미니게임/이름입력/버튼/상태 화면은 작업 과정에서 반복 검증. 이번 350장 자막 통합은 전 항목 정적 역렌더 검증 완료 |
-| 로컬 배포 패치 | 완료 — `release/digicomm_nyo_kr_final_full.ips`, 원본 ROM 적용 결과가 최종 통합 ROM과 byte-for-byte 동일. **현재 공개 Git에는 IPS를 포함하지 않음** |
+| 로컬 배포 패치 | 완료 — `release/digicomm_nyo_kr_v0.1.ips`, 원본 ROM 적용 결과가 최종 통합 ROM과 byte-for-byte 동일. **현재 공개 Git에는 IPS를 포함하지 않음** |
 
 최종 클린 빌드 로그 핵심:
 
@@ -51,19 +51,34 @@ bogus records skipped: 0
 현재 최종 통합 빌드: `build/digicomm_nyo_kr_final_full.gba`
 
 현재 빌드 SHA-256:
-`161F4B20DFFBDA4D8692327A42E1BFC5B090239ABF3BC192E467D07B3E77F2D2`
+`1B59B04D9F9EE61BFB6D277B4682990C135F49830A75369E25F31F24A7C8507E`
 
 크기: **16,777,216 bytes**. 자막 350장도 이제 `gba_build.py`의 정식 빌드 단계이며, `assets/build_invariants.json`이 16개 fit override와 `expected_count=350`을 강제한다. 따라서 이후 원본 ROM에서 클린 빌드해도 자막이 빠지면 빌드가 실패한다.
 
-로컬 배포용 IPS (공개 Git 제외): `release/digicomm_nyo_kr_final_full.ips`
+로컬 배포용 IPS (공개 Git 제외): `release/digicomm_nyo_kr_v0.1.ips`
 
 - 원본 ROM SHA-256: `3A098B5963DAF8BF38D67780F95325158FE09783980B1B74FA24BA02ECD16A5C`
-- 패치된 최종 ROM SHA-256: `161F4B20DFFBDA4D8692327A42E1BFC5B090239ABF3BC192E467D07B3E77F2D2`
-- IPS SHA-256: `CFAC8E3C10F9C98743C09600949F2215EDCDF03EAC80993A1B7337E98BC742AD`
+- 패치된 최종 ROM SHA-256: `1B59B04D9F9EE61BFB6D277B4682990C135F49830A75369E25F31F24A7C8507E`
+- IPS SHA-256: `D8CBCF8DE4F38D1FAE52BCD94C8CAC7F85E768931CF4E1B66E9B2DC3F22364EC`
 - IPS 크기: **811,639 bytes**
 - 검증: 원본 ROM → IPS 적용 결과가 `build/digicomm_nyo_kr_final_full.gba`와 **byte-for-byte 동일**
 
 `digicomm_nyo_kr_final.gba`는 정리 시점에 다른 프로그램이 파일을 열고 있어 Windows가 덮어쓰기를 거부했으므로, 최신 완전 통합본은 위 `digicomm_nyo_kr_final_full.gba`를 기준으로 한다.
+
+## 2026-09-09 GitHub Issue #1 `피요코` → `삐요코` 수정
+
+GitHub의 현재 열린 이슈를 확인한 결과 #1 `이름 오역` 1건이 있었고, 제보 내용은 `피요코 -> 삐요코`였다. 번역 데이터 전수 검색에서는 `messages.json`, `recovered_messages_ko.json`, `ui_strings_ko.json`, 자막 인덱스가 이미 `삐요코`로 통일돼 있었지만, `assets/build_invariants.json`의 고정폭 raw UI 강제 치환 `0x95F34` (`ぴよこにおまかせ！編`)만 `피요코에게 맡겨!편`으로 남아 있었다.
+
+빌더는 `fixed_width_replacements`를 일반 `ui_strings_ko.json`보다 우선 적용하므로 실제 최종 ROM에서도 해당 챕터 제목만 첫 글자가 `피`로 되돌아가고 있었다. 이를 `삐요코에게 맡겨!편`으로 수정하고, 문서의 화자 말끝 표기도 `삐요코`로 통일했다. 저장소 전체 `피요코` 문자열은 0건이다.
+
+원본 ROM부터 전체 클린 빌드를 다시 수행했고 일반 이미지 **109 verified / failed 0 / relocated 0**, 자막 **350 verified / failed 0 / relocated 0**, 메시지 **4,669**, recovered **142**, raw UI **311**을 그대로 통과했다. 직전 최종 ROM과 새 최종 ROM의 차이는 정확히 **2 bytes**이며 `0x95F34`의 한글 stand-in 코드가 `피=99 82`에서 `삐=91 62`로 변경된 것뿐이다.
+
+- 최종 ROM: `build/digicomm_nyo_kr_final_full.gba`
+- 최종 ROM SHA-256: `1B59B04D9F9EE61BFB6D277B4682990C135F49830A75369E25F31F24A7C8507E`
+- 배포 IPS: `release/digicomm_nyo_kr_v0.1.ips`
+- IPS SHA-256: `D8CBCF8DE4F38D1FAE52BCD94C8CAC7F85E768931CF4E1B66E9B2DC3F22364EC`
+- IPS 크기: **811,639 bytes**
+- 원본 ROM → IPS 적용 검증: **PASS**, 최종 ROM과 byte-for-byte 동일
 
 ## 2026-08-31 자막 fit 가독성 우선 재생성
 
@@ -531,7 +546,7 @@ emucap 동적 추적은 수행하지 않았다.
 | `ゲバ` | 게바 | 게바게바 |
 | `にょ` | 뇨 | 데지코 |
 | `にゅ` | 뉴 | 푸치코 |
-| `ぴょ` | 뾰 | 피요코 |
+| `ぴょ` | 뾰 | 삐요코 |
 
 한국어 말버릇은 앞말과 붙여 쓴다. 예: `한다뇨`, `한다뉴`, `한다뾰`,
 `한다게마`, `한다게바`. `gba_translate.py`가 문장 끝 말버릇 앞 공백을 자동으로
